@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/rajkumar060301/leet-code/tree/master/0402-remove-k-digits) |
+## Array
+|  |
+| ------- |
+| [0046-permutations](https://github.com/rajkumar060301/leet-code/tree/master/0046-permutations) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/rajkumar060301/leet-code/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
