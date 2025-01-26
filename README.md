@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/rajkumar060301/leet-code/tree/master/0044-wildcard-matching) |
 | [0402-remove-k-digits](https://github.com/rajkumar060301/leet-code/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/rajkumar060301/leet-code/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/rajkumar060301/leet-code/tree/master/0455-assign-cookies) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rajkumar060301/leet-code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rajkumar060301/leet-code/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/rajkumar060301/leet-code/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/rajkumar060301/leet-code/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/rajkumar060301/leet-code/tree/master/0645-set-mismatch) |
 ## Backtracking
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rajkumar060301/leet-code/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/rajkumar060301/leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajkumar060301/leet-code/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/rajkumar060301/leet-code/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/rajkumar060301/leet-code/tree/master/0645-set-mismatch) |
 ## Queue
 |  |
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/rajkumar060301/leet-code/tree/master/0645-set-mismatch) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/rajkumar060301/leet-code/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
