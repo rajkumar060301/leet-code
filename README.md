@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/rajkumar060301/leet-code/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/rajkumar060301/leet-code/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/rajkumar060301/leet-code/tree/master/0409-longest-palindrome) |
+| [0541-reverse-string-ii](https://github.com/rajkumar060301/leet-code/tree/master/0541-reverse-string-ii) |
 | [0812-rotate-string](https://github.com/rajkumar060301/leet-code/tree/master/0812-rotate-string) |
 ## Stack
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/rajkumar060301/leet-code/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/rajkumar060301/leet-code/tree/master/0541-reverse-string-ii) |
 ## Binary Search
 |  |
 | ------- |
