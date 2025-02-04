@@ -1,4 +1,34 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Solutions
+
+Welcome to my **LeetCode Solutions** repository! 🚀
+
+This repository contains my solutions to various **LeetCode problems**, organized by topic and difficulty level. Whether you're preparing for coding interviews, improving your problem-solving skills, or just exploring algorithms and data structures, you'll find helpful solutions here.
+
+---
+
+### **📂 Repository Structure**
+- **Topics**: Solutions are categorized by topics such as Arrays, Strings, Linked Lists, Trees, Dynamic Programming, etc.
+- **Difficulty Levels**: Problems are tagged with their difficulty levels (Easy, Medium, Hard).
+- **Languages**: Solutions are provided in multiple programming languages, including **Java**, **Python**, **C++**, and **JavaScript**.
+
+---
+
+### **🌟 Features**
+- **Detailed Explanations**: Each solution includes a clear explanation of the approach and logic.
+- **Optimized Code**: Solutions are optimized for time and space complexity.
+- **Test Cases**: Includes sample test cases to validate the solutions.
+- **Progress Tracker**: Tracks my progress in solving LeetCode problems.
+
+---
+
+### **🚀 How to Use**
+1. Navigate to the topic or difficulty level you're interested in.
+2. Browse through the solutions and explanations.
+3. Clone the repository to run the code locally:
+   ```bash
+   git clone https://github.com/your-username/leetcode-solutions.git
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
