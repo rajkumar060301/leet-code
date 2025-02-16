@@ -42,6 +42,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0242-valid-anagram](https://github.com/rajkumar060301/leet-code/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/rajkumar060301/leet-code/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0290-word-pattern) |
+| [0306-additive-number](https://github.com/rajkumar060301/leet-code/tree/master/0306-additive-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajkumar060301/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rajkumar060301/leet-code/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/rajkumar060301/leet-code/tree/master/0394-decode-string) |
@@ -95,6 +96,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0046-permutations](https://github.com/rajkumar060301/leet-code/tree/master/0046-permutations) |
+| [0306-additive-number](https://github.com/rajkumar060301/leet-code/tree/master/0306-additive-number) |
 ## Hash Table
 |  |
 | ------- |
