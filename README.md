@@ -39,6 +39,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0072-edit-distance](https://github.com/rajkumar060301/leet-code/tree/master/0072-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/rajkumar060301/leet-code/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/rajkumar060301/leet-code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rajkumar060301/leet-code/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/rajkumar060301/leet-code/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0290-word-pattern) |
@@ -105,6 +106,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/rajkumar060301/leet-code/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/rajkumar060301/leet-code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/rajkumar060301/leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajkumar060301/leet-code/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0290-word-pattern) |
