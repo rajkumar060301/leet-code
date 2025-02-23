@@ -89,6 +89,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0048-rotate-image](https://github.com/rajkumar060301/leet-code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rajkumar060301/leet-code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rajkumar060301/leet-code/tree/master/0053-maximum-subarray) |
+| [0204-count-primes](https://github.com/rajkumar060301/leet-code/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajkumar060301/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/rajkumar060301/leet-code/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/rajkumar060301/leet-code/tree/master/0455-assign-cookies) |
@@ -143,6 +144,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | ------- |
 | [0048-rotate-image](https://github.com/rajkumar060301/leet-code/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/rajkumar060301/leet-code/tree/master/0168-excel-sheet-column-title) |
+| [0204-count-primes](https://github.com/rajkumar060301/leet-code/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/rajkumar060301/leet-code/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/rajkumar060301/leet-code/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/rajkumar060301/leet-code/tree/master/0412-fizz-buzz) |
@@ -235,5 +237,10 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rajkumar060301/leet-code/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/rajkumar060301/leet-code/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rajkumar060301/leet-code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
