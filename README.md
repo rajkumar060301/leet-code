@@ -60,6 +60,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0878-shifting-letters](https://github.com/rajkumar060301/leet-code/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rajkumar060301/leet-code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/rajkumar060301/leet-code/tree/master/1044-find-common-characters) |
+| [1080-camelcase-matching](https://github.com/rajkumar060301/leet-code/tree/master/1080-camelcase-matching) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rajkumar060301/leet-code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rajkumar060301/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Stack
@@ -100,6 +101,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0878-shifting-letters](https://github.com/rajkumar060301/leet-code/tree/master/0878-shifting-letters) |
 | [0948-sort-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0948-sort-an-array) |
 | [1044-find-common-characters](https://github.com/rajkumar060301/leet-code/tree/master/1044-find-common-characters) |
+| [1080-camelcase-matching](https://github.com/rajkumar060301/leet-code/tree/master/1080-camelcase-matching) |
 ## Backtracking
 |  |
 | ------- |
@@ -185,6 +187,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0541-reverse-string-ii](https://github.com/rajkumar060301/leet-code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rajkumar060301/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/rajkumar060301/leet-code/tree/master/0567-permutation-in-string) |
+| [1080-camelcase-matching](https://github.com/rajkumar060301/leet-code/tree/master/1080-camelcase-matching) |
 ## Binary Search
 |  |
 | ------- |
@@ -199,6 +202,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/rajkumar060301/leet-code/tree/master/0812-rotate-string) |
+| [1080-camelcase-matching](https://github.com/rajkumar060301/leet-code/tree/master/1080-camelcase-matching) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -243,4 +247,8 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rajkumar060301/leet-code/tree/master/0204-count-primes) |
+## Trie
+|  |
+| ------- |
+| [1080-camelcase-matching](https://github.com/rajkumar060301/leet-code/tree/master/1080-camelcase-matching) |
 <!---LeetCode Topics End-->
