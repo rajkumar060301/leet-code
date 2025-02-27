@@ -94,6 +94,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0204-count-primes](https://github.com/rajkumar060301/leet-code/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajkumar060301/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/rajkumar060301/leet-code/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/rajkumar060301/leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/rajkumar060301/leet-code/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0456-132-pattern) |
 | [0605-can-place-flowers](https://github.com/rajkumar060301/leet-code/tree/master/0605-can-place-flowers) |
@@ -114,6 +115,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0049-group-anagrams](https://github.com/rajkumar060301/leet-code/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/rajkumar060301/leet-code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/rajkumar060301/leet-code/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/rajkumar060301/leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/rajkumar060301/leet-code/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajkumar060301/leet-code/tree/master/0387-first-unique-character-in-a-string) |
@@ -242,6 +244,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rajkumar060301/leet-code/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/rajkumar060301/leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/rajkumar060301/leet-code/tree/master/0567-permutation-in-string) |
 ## Number Theory
 |  |
