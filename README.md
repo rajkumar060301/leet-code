@@ -153,6 +153,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0069-sqrtx](https://github.com/rajkumar060301/leet-code/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/rajkumar060301/leet-code/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/rajkumar060301/leet-code/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/rajkumar060301/leet-code/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/rajkumar060301/leet-code/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/rajkumar060301/leet-code/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/rajkumar060301/leet-code/tree/master/0342-power-of-four) |
@@ -272,4 +273,8 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [1080-camelcase-matching](https://github.com/rajkumar060301/leet-code/tree/master/1080-camelcase-matching) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/rajkumar060301/leet-code/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
