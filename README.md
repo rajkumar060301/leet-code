@@ -164,6 +164,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0412-fizz-buzz](https://github.com/rajkumar060301/leet-code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rajkumar060301/leet-code/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/rajkumar060301/leet-code/tree/master/0650-2-keys-keyboard) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rajkumar060301/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Matrix
@@ -208,6 +209,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0541-reverse-string-ii](https://github.com/rajkumar060301/leet-code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rajkumar060301/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/rajkumar060301/leet-code/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0633-sum-of-square-numbers) |
 | [1080-camelcase-matching](https://github.com/rajkumar060301/leet-code/tree/master/1080-camelcase-matching) |
 ## Binary Search
 |  |
@@ -218,6 +220,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0367-valid-perfect-square](https://github.com/rajkumar060301/leet-code/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/rajkumar060301/leet-code/tree/master/0400-nth-digit) |
 | [0456-132-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0456-132-pattern) |
+| [0633-sum-of-square-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0633-sum-of-square-numbers) |
 ## Ordered Set
 |  |
 | ------- |
