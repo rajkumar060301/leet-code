@@ -168,6 +168,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0650-2-keys-keyboard](https://github.com/rajkumar060301/leet-code/tree/master/0650-2-keys-keyboard) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rajkumar060301/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1195-distribute-candies-to-people](https://github.com/rajkumar060301/leet-code/tree/master/1195-distribute-candies-to-people) |
+| [1236-n-th-tribonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1236-n-th-tribonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -180,6 +181,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0053-maximum-subarray](https://github.com/rajkumar060301/leet-code/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/rajkumar060301/leet-code/tree/master/0072-edit-distance) |
 | [0650-2-keys-keyboard](https://github.com/rajkumar060301/leet-code/tree/master/0650-2-keys-keyboard) |
+| [1236-n-th-tribonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -287,4 +289,8 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/rajkumar060301/leet-code/tree/master/0223-rectangle-area) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
