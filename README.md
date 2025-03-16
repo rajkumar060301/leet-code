@@ -156,6 +156,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0168-excel-sheet-column-title](https://github.com/rajkumar060301/leet-code/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/rajkumar060301/leet-code/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/rajkumar060301/leet-code/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/rajkumar060301/leet-code/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rajkumar060301/leet-code/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/rajkumar060301/leet-code/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/rajkumar060301/leet-code/tree/master/0342-power-of-four) |
@@ -190,6 +191,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/rajkumar060301/leet-code/tree/master/0044-wildcard-matching) |
+| [0231-power-of-two](https://github.com/rajkumar060301/leet-code/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/rajkumar060301/leet-code/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/rajkumar060301/leet-code/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/rajkumar060301/leet-code/tree/master/0394-decode-string) |
@@ -201,6 +203,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/rajkumar060301/leet-code/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/rajkumar060301/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/rajkumar060301/leet-code/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/rajkumar060301/leet-code/tree/master/0389-find-the-difference) |
