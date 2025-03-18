@@ -162,6 +162,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0273-integer-to-english-words](https://github.com/rajkumar060301/leet-code/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/rajkumar060301/leet-code/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/rajkumar060301/leet-code/tree/master/0367-valid-perfect-square) |
+| [0372-super-pow](https://github.com/rajkumar060301/leet-code/tree/master/0372-super-pow) |
 | [0400-nth-digit](https://github.com/rajkumar060301/leet-code/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rajkumar060301/leet-code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/rajkumar060301/leet-code/tree/master/0412-fizz-buzz) |
@@ -201,6 +202,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rajkumar060301/leet-code/tree/master/0053-maximum-subarray) |
+| [0372-super-pow](https://github.com/rajkumar060301/leet-code/tree/master/0372-super-pow) |
 | [0948-sort-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0948-sort-an-array) |
 ## Bit Manipulation
 |  |
