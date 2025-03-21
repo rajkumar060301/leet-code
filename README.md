@@ -64,6 +64,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1080-camelcase-matching](https://github.com/rajkumar060301/leet-code/tree/master/1080-camelcase-matching) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rajkumar060301/leet-code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rajkumar060301/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1260-day-of-the-year](https://github.com/rajkumar060301/leet-code/tree/master/1260-day-of-the-year) |
 ## Stack
 |  |
 | ------- |
@@ -181,6 +182,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1146-greatest-common-divisor-of-strings](https://github.com/rajkumar060301/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1195-distribute-candies-to-people](https://github.com/rajkumar060301/leet-code/tree/master/1195-distribute-candies-to-people) |
 | [1236-n-th-tribonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1236-n-th-tribonacci-number) |
+| [1260-day-of-the-year](https://github.com/rajkumar060301/leet-code/tree/master/1260-day-of-the-year) |
 ## Matrix
 |  |
 | ------- |
