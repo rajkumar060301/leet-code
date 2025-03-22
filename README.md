@@ -183,6 +183,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1195-distribute-candies-to-people](https://github.com/rajkumar060301/leet-code/tree/master/1195-distribute-candies-to-people) |
 | [1236-n-th-tribonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/rajkumar060301/leet-code/tree/master/1260-day-of-the-year) |
+| [1289-day-of-the-week](https://github.com/rajkumar060301/leet-code/tree/master/1289-day-of-the-week) |
 ## Matrix
 |  |
 | ------- |
