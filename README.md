@@ -47,6 +47,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0344-reverse-string](https://github.com/rajkumar060301/leet-code/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajkumar060301/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rajkumar060301/leet-code/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/rajkumar060301/leet-code/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/rajkumar060301/leet-code/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/rajkumar060301/leet-code/tree/master/0409-longest-palindrome) |
@@ -195,6 +196,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0044-wildcard-matching](https://github.com/rajkumar060301/leet-code/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/rajkumar060301/leet-code/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/rajkumar060301/leet-code/tree/master/0072-edit-distance) |
+| [0392-is-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/rajkumar060301/leet-code/tree/master/0650-2-keys-keyboard) |
 | [1236-n-th-tribonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
@@ -228,6 +230,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0283-move-zeroes](https://github.com/rajkumar060301/leet-code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rajkumar060301/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rajkumar060301/leet-code/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/rajkumar060301/leet-code/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/rajkumar060301/leet-code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rajkumar060301/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
