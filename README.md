@@ -54,6 +54,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0412-fizz-buzz](https://github.com/rajkumar060301/leet-code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rajkumar060301/leet-code/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/rajkumar060301/leet-code/tree/master/0482-license-key-formatting) |
 | [0541-reverse-string-ii](https://github.com/rajkumar060301/leet-code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rajkumar060301/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/rajkumar060301/leet-code/tree/master/0567-permutation-in-string) |
