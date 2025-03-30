@@ -55,6 +55,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0415-add-strings](https://github.com/rajkumar060301/leet-code/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/rajkumar060301/leet-code/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/rajkumar060301/leet-code/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/rajkumar060301/leet-code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rajkumar060301/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/rajkumar060301/leet-code/tree/master/0567-permutation-in-string) |
@@ -106,6 +107,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0287-find-the-duplicate-number](https://github.com/rajkumar060301/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/rajkumar060301/leet-code/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0456-132-pattern) |
+| [0500-keyboard-row](https://github.com/rajkumar060301/leet-code/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/rajkumar060301/leet-code/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/rajkumar060301/leet-code/tree/master/0645-set-mismatch) |
@@ -135,6 +137,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0387-first-unique-character-in-a-string](https://github.com/rajkumar060301/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rajkumar060301/leet-code/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/rajkumar060301/leet-code/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/rajkumar060301/leet-code/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/rajkumar060301/leet-code/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/rajkumar060301/leet-code/tree/master/0645-set-mismatch) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rajkumar060301/leet-code/tree/master/0920-uncommon-words-from-two-sentences) |
