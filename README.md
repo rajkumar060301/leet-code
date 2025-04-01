@@ -118,6 +118,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0878-shifting-letters](https://github.com/rajkumar060301/leet-code/tree/master/0878-shifting-letters) |
 | [0944-smallest-range-i](https://github.com/rajkumar060301/leet-code/tree/master/0944-smallest-range-i) |
 | [0948-sort-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0948-sort-an-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/rajkumar060301/leet-code/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/rajkumar060301/leet-code/tree/master/1044-find-common-characters) |
 | [1080-camelcase-matching](https://github.com/rajkumar060301/leet-code/tree/master/1080-camelcase-matching) |
 ## Backtracking
@@ -196,6 +197,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0670-maximum-swap](https://github.com/rajkumar060301/leet-code/tree/master/0670-maximum-swap) |
 | [0830-largest-triangle-area](https://github.com/rajkumar060301/leet-code/tree/master/0830-largest-triangle-area) |
 | [0944-smallest-range-i](https://github.com/rajkumar060301/leet-code/tree/master/0944-smallest-range-i) |
+| [1031-add-to-array-form-of-integer](https://github.com/rajkumar060301/leet-code/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rajkumar060301/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1195-distribute-candies-to-people](https://github.com/rajkumar060301/leet-code/tree/master/1195-distribute-candies-to-people) |
 | [1236-n-th-tribonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1236-n-th-tribonacci-number) |
