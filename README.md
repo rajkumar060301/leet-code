@@ -70,6 +70,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1146-greatest-common-divisor-of-strings](https://github.com/rajkumar060301/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/rajkumar060301/leet-code/tree/master/1260-day-of-the-year) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rajkumar060301/leet-code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/rajkumar060301/leet-code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Stack
 |  |
 | ------- |
@@ -315,6 +316,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0412-fizz-buzz](https://github.com/rajkumar060301/leet-code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rajkumar060301/leet-code/tree/master/0415-add-strings) |
 | [1195-distribute-candies-to-people](https://github.com/rajkumar060301/leet-code/tree/master/1195-distribute-candies-to-people) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/rajkumar060301/leet-code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Prefix Sum
 |  |
 | ------- |
