@@ -69,6 +69,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rajkumar060301/leet-code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rajkumar060301/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1260-day-of-the-year](https://github.com/rajkumar060301/leet-code/tree/master/1260-day-of-the-year) |
+| [1944-truncate-sentence](https://github.com/rajkumar060301/leet-code/tree/master/1944-truncate-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rajkumar060301/leet-code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rajkumar060301/leet-code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Stack
@@ -126,6 +127,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1031-add-to-array-form-of-integer](https://github.com/rajkumar060301/leet-code/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/rajkumar060301/leet-code/tree/master/1044-find-common-characters) |
 | [1080-camelcase-matching](https://github.com/rajkumar060301/leet-code/tree/master/1080-camelcase-matching) |
+| [1944-truncate-sentence](https://github.com/rajkumar060301/leet-code/tree/master/1944-truncate-sentence) |
 ## Backtracking
 |  |
 | ------- |
