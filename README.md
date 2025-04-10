@@ -196,6 +196,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0231-power-of-two](https://github.com/rajkumar060301/leet-code/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rajkumar060301/leet-code/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/rajkumar060301/leet-code/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/rajkumar060301/leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajkumar060301/leet-code/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/rajkumar060301/leet-code/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/rajkumar060301/leet-code/tree/master/0372-super-pow) |
@@ -240,6 +241,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0044-wildcard-matching](https://github.com/rajkumar060301/leet-code/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/rajkumar060301/leet-code/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/rajkumar060301/leet-code/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/rajkumar060301/leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajkumar060301/leet-code/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/rajkumar060301/leet-code/tree/master/0394-decode-string) |
 ## Divide and Conquer
