@@ -195,6 +195,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0223-rectangle-area](https://github.com/rajkumar060301/leet-code/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/rajkumar060301/leet-code/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rajkumar060301/leet-code/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/rajkumar060301/leet-code/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/rajkumar060301/leet-code/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/rajkumar060301/leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajkumar060301/leet-code/tree/master/0342-power-of-four) |
