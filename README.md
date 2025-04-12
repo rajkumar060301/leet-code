@@ -131,6 +131,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1080-camelcase-matching](https://github.com/rajkumar060301/leet-code/tree/master/1080-camelcase-matching) |
 | [1944-truncate-sentence](https://github.com/rajkumar060301/leet-code/tree/master/1944-truncate-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/rajkumar060301/leet-code/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2159-two-out-of-three](https://github.com/rajkumar060301/leet-code/tree/master/2159-two-out-of-three) |
 ## Backtracking
 |  |
 | ------- |
@@ -159,6 +160,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0920-uncommon-words-from-two-sentences](https://github.com/rajkumar060301/leet-code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/rajkumar060301/leet-code/tree/master/1044-find-common-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rajkumar060301/leet-code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2159-two-out-of-three](https://github.com/rajkumar060301/leet-code/tree/master/2159-two-out-of-three) |
 ## Sorting
 |  |
 | ------- |
@@ -260,6 +262,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0389-find-the-difference](https://github.com/rajkumar060301/leet-code/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rajkumar060301/leet-code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/rajkumar060301/leet-code/tree/master/0645-set-mismatch) |
+| [2159-two-out-of-three](https://github.com/rajkumar060301/leet-code/tree/master/2159-two-out-of-three) |
 ## Two Pointers
 |  |
 | ------- |
