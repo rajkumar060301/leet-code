@@ -134,6 +134,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1944-truncate-sentence](https://github.com/rajkumar060301/leet-code/tree/master/1944-truncate-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/rajkumar060301/leet-code/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/rajkumar060301/leet-code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/rajkumar060301/leet-code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2159-two-out-of-three](https://github.com/rajkumar060301/leet-code/tree/master/2159-two-out-of-three) |
 ## Backtracking
 |  |
@@ -236,6 +237,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0048-rotate-image](https://github.com/rajkumar060301/leet-code/tree/master/0048-rotate-image) |
 | [0777-toeplitz-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0777-toeplitz-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/rajkumar060301/leet-code/tree/master/1677-matrix-diagonal-sum) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/rajkumar060301/leet-code/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -339,6 +341,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0415-add-strings](https://github.com/rajkumar060301/leet-code/tree/master/0415-add-strings) |
 | [1195-distribute-candies-to-people](https://github.com/rajkumar060301/leet-code/tree/master/1195-distribute-candies-to-people) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rajkumar060301/leet-code/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/rajkumar060301/leet-code/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Prefix Sum
 |  |
 | ------- |
