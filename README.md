@@ -75,6 +75,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rajkumar060301/leet-code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/rajkumar060301/leet-code/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2235-capitalize-the-title](https://github.com/rajkumar060301/leet-code/tree/master/2235-capitalize-the-title) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/rajkumar060301/leet-code/tree/master/2819-remove-trailing-zeros-from-a-string) |
 ## Stack
 |  |
 | ------- |
