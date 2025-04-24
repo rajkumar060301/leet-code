@@ -116,6 +116,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0349-intersection-of-two-arrays](https://github.com/rajkumar060301/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/rajkumar060301/leet-code/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rajkumar060301/leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/rajkumar060301/leet-code/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/rajkumar060301/leet-code/tree/master/0485-max-consecutive-ones) |
@@ -224,6 +225,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rajkumar060301/leet-code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/rajkumar060301/leet-code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rajkumar060301/leet-code/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rajkumar060301/leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0492-construct-the-rectangle](https://github.com/rajkumar060301/leet-code/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/rajkumar060301/leet-code/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/rajkumar060301/leet-code/tree/master/0507-perfect-number) |
