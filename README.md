@@ -119,6 +119,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0287-find-the-duplicate-number](https://github.com/rajkumar060301/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajkumar060301/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/rajkumar060301/leet-code/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rajkumar060301/leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/rajkumar060301/leet-code/tree/master/0455-assign-cookies) |
@@ -170,6 +171,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0389-find-the-difference](https://github.com/rajkumar060301/leet-code/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/rajkumar060301/leet-code/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajkumar060301/leet-code/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/rajkumar060301/leet-code/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/rajkumar060301/leet-code/tree/master/0567-permutation-in-string) |
