@@ -409,4 +409,8 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rajkumar060301/leet-code/tree/master/0141-linked-list-cycle) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/rajkumar060301/leet-code/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
