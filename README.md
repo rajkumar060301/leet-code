@@ -112,6 +112,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0048-rotate-image](https://github.com/rajkumar060301/leet-code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rajkumar060301/leet-code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rajkumar060301/leet-code/tree/master/0053-maximum-subarray) |
+| [0120-triangle](https://github.com/rajkumar060301/leet-code/tree/master/0120-triangle) |
 | [0189-rotate-array](https://github.com/rajkumar060301/leet-code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/rajkumar060301/leet-code/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajkumar060301/leet-code/tree/master/0209-minimum-size-subarray-sum) |
@@ -270,6 +271,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0045-jump-game-ii](https://github.com/rajkumar060301/leet-code/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rajkumar060301/leet-code/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/rajkumar060301/leet-code/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/rajkumar060301/leet-code/tree/master/0120-triangle) |
 | [0392-is-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/rajkumar060301/leet-code/tree/master/0650-2-keys-keyboard) |
 | [1236-n-th-tribonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1236-n-th-tribonacci-number) |
