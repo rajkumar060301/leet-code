@@ -152,6 +152,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1137-height-checker](https://github.com/rajkumar060301/leet-code/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/rajkumar060301/leet-code/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/rajkumar060301/leet-code/tree/master/1217-relative-sort-array) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rajkumar060301/leet-code/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajkumar060301/leet-code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/rajkumar060301/leet-code/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/rajkumar060301/leet-code/tree/master/1677-matrix-diagonal-sum) |
@@ -194,6 +195,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0926-find-and-replace-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0926-find-and-replace-pattern) |
 | [1044-find-common-characters](https://github.com/rajkumar060301/leet-code/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/rajkumar060301/leet-code/tree/master/1217-relative-sort-array) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rajkumar060301/leet-code/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajkumar060301/leet-code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rajkumar060301/leet-code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/rajkumar060301/leet-code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -286,6 +288,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0494-target-sum](https://github.com/rajkumar060301/leet-code/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/rajkumar060301/leet-code/tree/master/0650-2-keys-keyboard) |
 | [1236-n-th-tribonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1236-n-th-tribonacci-number) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rajkumar060301/leet-code/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1764-maximum-repeating-substring](https://github.com/rajkumar060301/leet-code/tree/master/1764-maximum-repeating-substring) |
 ## Recursion
 |  |
