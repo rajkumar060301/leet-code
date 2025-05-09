@@ -129,6 +129,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rajkumar060301/leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0454-4sum-ii](https://github.com/rajkumar060301/leet-code/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/rajkumar060301/leet-code/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/rajkumar060301/leet-code/tree/master/0485-max-consecutive-ones) |
@@ -185,6 +186,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0424-longest-repeating-character-replacement](https://github.com/rajkumar060301/leet-code/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0454-4sum-ii](https://github.com/rajkumar060301/leet-code/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/rajkumar060301/leet-code/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/rajkumar060301/leet-code/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/rajkumar060301/leet-code/tree/master/0567-permutation-in-string) |
