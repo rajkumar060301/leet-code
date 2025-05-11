@@ -125,6 +125,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0283-move-zeroes](https://github.com/rajkumar060301/leet-code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rajkumar060301/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajkumar060301/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rajkumar060301/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/rajkumar060301/leet-code/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -181,6 +182,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0242-valid-anagram](https://github.com/rajkumar060301/leet-code/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/rajkumar060301/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rajkumar060301/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajkumar060301/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rajkumar060301/leet-code/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/rajkumar060301/leet-code/tree/master/0409-longest-palindrome) |
@@ -212,6 +214,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0220-contains-duplicate-iii](https://github.com/rajkumar060301/leet-code/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/rajkumar060301/leet-code/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rajkumar060301/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rajkumar060301/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/rajkumar060301/leet-code/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/rajkumar060301/leet-code/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/rajkumar060301/leet-code/tree/master/0455-assign-cookies) |
@@ -330,6 +333,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0287-find-the-duplicate-number](https://github.com/rajkumar060301/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rajkumar060301/leet-code/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rajkumar060301/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rajkumar060301/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/rajkumar060301/leet-code/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/rajkumar060301/leet-code/tree/master/0541-reverse-string-ii) |
@@ -347,6 +351,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0209-minimum-size-subarray-sum](https://github.com/rajkumar060301/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/rajkumar060301/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajkumar060301/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rajkumar060301/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/rajkumar060301/leet-code/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/rajkumar060301/leet-code/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/rajkumar060301/leet-code/tree/master/0441-arranging-coins) |
