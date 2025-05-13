@@ -126,6 +126,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0287-find-the-duplicate-number](https://github.com/rajkumar060301/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajkumar060301/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajkumar060301/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0396-rotate-function](https://github.com/rajkumar060301/leet-code/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/rajkumar060301/leet-code/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -255,6 +256,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0342-power-of-four](https://github.com/rajkumar060301/leet-code/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/rajkumar060301/leet-code/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/rajkumar060301/leet-code/tree/master/0372-super-pow) |
+| [0396-rotate-function](https://github.com/rajkumar060301/leet-code/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/rajkumar060301/leet-code/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rajkumar060301/leet-code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/rajkumar060301/leet-code/tree/master/0412-fizz-buzz) |
@@ -293,6 +295,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0072-edit-distance](https://github.com/rajkumar060301/leet-code/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/rajkumar060301/leet-code/tree/master/0120-triangle) |
 | [0392-is-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/rajkumar060301/leet-code/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/rajkumar060301/leet-code/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/rajkumar060301/leet-code/tree/master/0650-2-keys-keyboard) |
 | [1105-uncrossed-lines](https://github.com/rajkumar060301/leet-code/tree/master/1105-uncrossed-lines) |
