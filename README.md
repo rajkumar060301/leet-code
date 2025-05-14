@@ -38,6 +38,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0049-group-anagrams](https://github.com/rajkumar060301/leet-code/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/rajkumar060301/leet-code/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/rajkumar060301/leet-code/tree/master/0072-edit-distance) |
+| [0132-palindrome-partitioning-ii](https://github.com/rajkumar060301/leet-code/tree/master/0132-palindrome-partitioning-ii) |
 | [0165-compare-version-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/rajkumar060301/leet-code/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/rajkumar060301/leet-code/tree/master/0205-isomorphic-strings) |
@@ -294,6 +295,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0053-maximum-subarray](https://github.com/rajkumar060301/leet-code/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/rajkumar060301/leet-code/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/rajkumar060301/leet-code/tree/master/0120-triangle) |
+| [0132-palindrome-partitioning-ii](https://github.com/rajkumar060301/leet-code/tree/master/0132-palindrome-partitioning-ii) |
 | [0392-is-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/rajkumar060301/leet-code/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/rajkumar060301/leet-code/tree/master/0494-target-sum) |
