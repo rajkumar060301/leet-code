@@ -62,6 +62,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0541-reverse-string-ii](https://github.com/rajkumar060301/leet-code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rajkumar060301/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/rajkumar060301/leet-code/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/rajkumar060301/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/rajkumar060301/leet-code/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/rajkumar060301/leet-code/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/rajkumar060301/leet-code/tree/master/0812-rotate-string) |
@@ -140,6 +141,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0496-next-greater-element-i](https://github.com/rajkumar060301/leet-code/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/rajkumar060301/leet-code/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/rajkumar060301/leet-code/tree/master/0525-contiguous-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/rajkumar060301/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/rajkumar060301/leet-code/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/rajkumar060301/leet-code/tree/master/0645-set-mismatch) |
@@ -198,6 +200,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0500-keyboard-row](https://github.com/rajkumar060301/leet-code/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/rajkumar060301/leet-code/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/rajkumar060301/leet-code/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/rajkumar060301/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/rajkumar060301/leet-code/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0697-degree-of-an-array) |
 | [0837-most-common-word](https://github.com/rajkumar060301/leet-code/tree/master/0837-most-common-word) |
