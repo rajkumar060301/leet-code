@@ -285,6 +285,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1236-n-th-tribonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/rajkumar060301/leet-code/tree/master/1260-day-of-the-year) |
 | [1289-day-of-the-week](https://github.com/rajkumar060301/leet-code/tree/master/1289-day-of-the-week) |
+| [1761-count-sorted-vowel-strings](https://github.com/rajkumar060301/leet-code/tree/master/1761-count-sorted-vowel-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -308,6 +309,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1105-uncrossed-lines](https://github.com/rajkumar060301/leet-code/tree/master/1105-uncrossed-lines) |
 | [1236-n-th-tribonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1236-n-th-tribonacci-number) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rajkumar060301/leet-code/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1761-count-sorted-vowel-strings](https://github.com/rajkumar060301/leet-code/tree/master/1761-count-sorted-vowel-strings) |
 | [1764-maximum-repeating-substring](https://github.com/rajkumar060301/leet-code/tree/master/1764-maximum-repeating-substring) |
 ## Recursion
 |  |
@@ -460,4 +462,8 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/rajkumar060301/leet-code/tree/master/0182-duplicate-emails) |
+## Combinatorics
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/rajkumar060301/leet-code/tree/master/1761-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
