@@ -326,6 +326,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/rajkumar060301/leet-code/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rajkumar060301/leet-code/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/rajkumar060301/leet-code/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/rajkumar060301/leet-code/tree/master/0326-power-of-three) |
@@ -471,6 +472,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rajkumar060301/leet-code/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0206-reverse-linked-list) |
 ## Database
 |  |
 | ------- |
