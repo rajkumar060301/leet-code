@@ -328,6 +328,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rajkumar060301/leet-code/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/rajkumar060301/leet-code/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/rajkumar060301/leet-code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0206-reverse-linked-list) |
@@ -482,6 +483,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rajkumar060301/leet-code/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/rajkumar060301/leet-code/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/rajkumar060301/leet-code/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/rajkumar060301/leet-code/tree/master/0148-sort-list) |
