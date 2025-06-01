@@ -297,6 +297,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1236-n-th-tribonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/rajkumar060301/leet-code/tree/master/1260-day-of-the-year) |
 | [1289-day-of-the-week](https://github.com/rajkumar060301/leet-code/tree/master/1289-day-of-the-week) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajkumar060301/leet-code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1761-count-sorted-vowel-strings](https://github.com/rajkumar060301/leet-code/tree/master/1761-count-sorted-vowel-strings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/1925-count-nice-pairs-in-an-array) |
 ## Matrix
@@ -494,6 +495,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0328-odd-even-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajkumar060301/leet-code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Database
 |  |
 | ------- |
