@@ -164,6 +164,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1137-height-checker](https://github.com/rajkumar060301/leet-code/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/rajkumar060301/leet-code/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/rajkumar060301/leet-code/tree/master/1217-relative-sort-array) |
+| [1241-decompress-run-length-encoded-list](https://github.com/rajkumar060301/leet-code/tree/master/1241-decompress-run-length-encoded-list) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rajkumar060301/leet-code/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajkumar060301/leet-code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/rajkumar060301/leet-code/tree/master/1603-running-sum-of-1d-array) |
