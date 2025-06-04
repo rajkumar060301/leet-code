@@ -150,6 +150,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0645-set-mismatch](https://github.com/rajkumar060301/leet-code/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0697-degree-of-an-array) |
 | [0777-toeplitz-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0777-toeplitz-matrix) |
+| [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/rajkumar060301/leet-code/tree/master/0830-largest-triangle-area) |
 | [0835-linked-list-components](https://github.com/rajkumar060301/leet-code/tree/master/0835-linked-list-components) |
 | [0837-most-common-word](https://github.com/rajkumar060301/leet-code/tree/master/0837-most-common-word) |
@@ -212,6 +213,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rajkumar060301/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/rajkumar060301/leet-code/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0697-degree-of-an-array) |
+| [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/rajkumar060301/leet-code/tree/master/0835-linked-list-components) |
 | [0837-most-common-word](https://github.com/rajkumar060301/leet-code/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rajkumar060301/leet-code/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -496,6 +498,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0206-reverse-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0328-odd-even-linked-list) |
+| [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/rajkumar060301/leet-code/tree/master/0835-linked-list-components) |
 | [0838-design-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0908-middle-of-the-linked-list) |
@@ -511,5 +514,10 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Design
 |  |
 | ------- |
+| [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0838-design-linked-list) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
