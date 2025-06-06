@@ -149,6 +149,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0605-can-place-flowers](https://github.com/rajkumar060301/leet-code/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/rajkumar060301/leet-code/tree/master/0645-set-mismatch) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0697-degree-of-an-array) |
 | [0777-toeplitz-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0777-toeplitz-matrix) |
 | [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
@@ -329,6 +330,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0396-rotate-function](https://github.com/rajkumar060301/leet-code/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/rajkumar060301/leet-code/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/rajkumar060301/leet-code/tree/master/0650-2-keys-keyboard) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1105-uncrossed-lines](https://github.com/rajkumar060301/leet-code/tree/master/1105-uncrossed-lines) |
 | [1236-n-th-tribonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1236-n-th-tribonacci-number) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rajkumar060301/leet-code/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -523,4 +525,12 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
