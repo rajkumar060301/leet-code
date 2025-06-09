@@ -224,6 +224,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0920-uncommon-words-from-two-sentences](https://github.com/rajkumar060301/leet-code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0926-find-and-replace-pattern) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/rajkumar060301/leet-code/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1010-powerful-integers](https://github.com/rajkumar060301/leet-code/tree/master/1010-powerful-integers) |
 | [1044-find-common-characters](https://github.com/rajkumar060301/leet-code/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/rajkumar060301/leet-code/tree/master/1217-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/rajkumar060301/leet-code/tree/master/1297-maximum-number-of-balloons) |
@@ -304,6 +305,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0670-maximum-swap](https://github.com/rajkumar060301/leet-code/tree/master/0670-maximum-swap) |
 | [0830-largest-triangle-area](https://github.com/rajkumar060301/leet-code/tree/master/0830-largest-triangle-area) |
 | [0944-smallest-range-i](https://github.com/rajkumar060301/leet-code/tree/master/0944-smallest-range-i) |
+| [1010-powerful-integers](https://github.com/rajkumar060301/leet-code/tree/master/1010-powerful-integers) |
 | [1031-add-to-array-form-of-integer](https://github.com/rajkumar060301/leet-code/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rajkumar060301/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1195-distribute-candies-to-people](https://github.com/rajkumar060301/leet-code/tree/master/1195-distribute-candies-to-people) |
@@ -480,6 +482,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rajkumar060301/leet-code/tree/master/0204-count-primes) |
+| [1010-powerful-integers](https://github.com/rajkumar060301/leet-code/tree/master/1010-powerful-integers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajkumar060301/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rajkumar060301/leet-code/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Trie
