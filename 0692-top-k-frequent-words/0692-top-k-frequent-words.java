@@ -9,7 +9,6 @@ class Solution {
       
         Collections.sort(res, (w1, w2) -> freq.get(w1).equals(freq.get(w2)) ?
                 w1.compareTo(w2) : freq.get(w2) - freq.get(w1));
-
         return res.subList(0, k);
     }
 }
