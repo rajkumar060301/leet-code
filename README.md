@@ -78,6 +78,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1080-camelcase-matching](https://github.com/rajkumar060301/leet-code/tree/master/1080-camelcase-matching) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rajkumar060301/leet-code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rajkumar060301/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1156-occurrences-after-bigram](https://github.com/rajkumar060301/leet-code/tree/master/1156-occurrences-after-bigram) |
 | [1260-day-of-the-year](https://github.com/rajkumar060301/leet-code/tree/master/1260-day-of-the-year) |
 | [1297-maximum-number-of-balloons](https://github.com/rajkumar060301/leet-code/tree/master/1297-maximum-number-of-balloons) |
 | [1751-slowest-key](https://github.com/rajkumar060301/leet-code/tree/master/1751-slowest-key) |
