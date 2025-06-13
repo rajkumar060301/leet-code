@@ -81,6 +81,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1156-occurrences-after-bigram](https://github.com/rajkumar060301/leet-code/tree/master/1156-occurrences-after-bigram) |
 | [1260-day-of-the-year](https://github.com/rajkumar060301/leet-code/tree/master/1260-day-of-the-year) |
 | [1297-maximum-number-of-balloons](https://github.com/rajkumar060301/leet-code/tree/master/1297-maximum-number-of-balloons) |
+| [1308-smallest-string-with-swaps](https://github.com/rajkumar060301/leet-code/tree/master/1308-smallest-string-with-swaps) |
 | [1751-slowest-key](https://github.com/rajkumar060301/leet-code/tree/master/1751-slowest-key) |
 | [1764-maximum-repeating-substring](https://github.com/rajkumar060301/leet-code/tree/master/1764-maximum-repeating-substring) |
 | [1944-truncate-sentence](https://github.com/rajkumar060301/leet-code/tree/master/1944-truncate-sentence) |
@@ -175,6 +176,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1168-duplicate-zeros](https://github.com/rajkumar060301/leet-code/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/rajkumar060301/leet-code/tree/master/1217-relative-sort-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/rajkumar060301/leet-code/tree/master/1241-decompress-run-length-encoded-list) |
+| [1308-smallest-string-with-swaps](https://github.com/rajkumar060301/leet-code/tree/master/1308-smallest-string-with-swaps) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rajkumar060301/leet-code/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajkumar060301/leet-code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/rajkumar060301/leet-code/tree/master/1603-running-sum-of-1d-array) |
@@ -234,6 +236,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1044-find-common-characters](https://github.com/rajkumar060301/leet-code/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/rajkumar060301/leet-code/tree/master/1217-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/rajkumar060301/leet-code/tree/master/1297-maximum-number-of-balloons) |
+| [1308-smallest-string-with-swaps](https://github.com/rajkumar060301/leet-code/tree/master/1308-smallest-string-with-swaps) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rajkumar060301/leet-code/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajkumar060301/leet-code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -260,6 +263,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0948-sort-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/rajkumar060301/leet-code/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/rajkumar060301/leet-code/tree/master/1217-relative-sort-array) |
+| [1308-smallest-string-with-swaps](https://github.com/rajkumar060301/leet-code/tree/master/1308-smallest-string-with-swaps) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajkumar060301/leet-code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajkumar060301/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
 ## Queue
@@ -552,4 +556,16 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [1308-smallest-string-with-swaps](https://github.com/rajkumar060301/leet-code/tree/master/1308-smallest-string-with-swaps) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1308-smallest-string-with-swaps](https://github.com/rajkumar060301/leet-code/tree/master/1308-smallest-string-with-swaps) |
+## Union Find
+|  |
+| ------- |
+| [1308-smallest-string-with-swaps](https://github.com/rajkumar060301/leet-code/tree/master/1308-smallest-string-with-swaps) |
 <!---LeetCode Topics End-->
