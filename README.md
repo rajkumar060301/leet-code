@@ -200,6 +200,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | ------- |
 | [0049-group-anagrams](https://github.com/rajkumar060301/leet-code/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/rajkumar060301/leet-code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rajkumar060301/leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rajkumar060301/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/rajkumar060301/leet-code/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/rajkumar060301/leet-code/tree/master/0205-isomorphic-strings) |
@@ -389,6 +390,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rajkumar060301/leet-code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rajkumar060301/leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/rajkumar060301/leet-code/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rajkumar060301/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0165-compare-version-numbers) |
@@ -520,6 +522,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0021-merge-two-sorted-lists](https://github.com/rajkumar060301/leet-code/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/rajkumar060301/leet-code/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/rajkumar060301/leet-code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rajkumar060301/leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/rajkumar060301/leet-code/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rajkumar060301/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/rajkumar060301/leet-code/tree/master/0203-remove-linked-list-elements) |
