@@ -127,6 +127,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0048-rotate-image](https://github.com/rajkumar060301/leet-code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rajkumar060301/leet-code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rajkumar060301/leet-code/tree/master/0053-maximum-subarray) |
+| [0090-subsets-ii](https://github.com/rajkumar060301/leet-code/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/rajkumar060301/leet-code/tree/master/0120-triangle) |
 | [0189-rotate-array](https://github.com/rajkumar060301/leet-code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/rajkumar060301/leet-code/tree/master/0204-count-primes) |
@@ -195,6 +196,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0046-permutations](https://github.com/rajkumar060301/leet-code/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/rajkumar060301/leet-code/tree/master/0090-subsets-ii) |
 | [0306-additive-number](https://github.com/rajkumar060301/leet-code/tree/master/0306-additive-number) |
 | [0494-target-sum](https://github.com/rajkumar060301/leet-code/tree/master/0494-target-sum) |
 ## Hash Table
@@ -383,6 +385,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/rajkumar060301/leet-code/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/rajkumar060301/leet-code/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/rajkumar060301/leet-code/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/rajkumar060301/leet-code/tree/master/0287-find-the-duplicate-number) |
