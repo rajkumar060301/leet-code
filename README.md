@@ -193,6 +193,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/rajkumar060301/leet-code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rajkumar060301/leet-code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2159-two-out-of-three](https://github.com/rajkumar060301/leet-code/tree/master/2159-two-out-of-three) |
+| [2195-time-needed-to-buy-tickets](https://github.com/rajkumar060301/leet-code/tree/master/2195-time-needed-to-buy-tickets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajkumar060301/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
 ## Backtracking
 |  |
@@ -278,6 +279,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rajkumar060301/leet-code/tree/master/0387-first-unique-character-in-a-string) |
+| [2195-time-needed-to-buy-tickets](https://github.com/rajkumar060301/leet-code/tree/master/2195-time-needed-to-buy-tickets) |
 ## Counting
 |  |
 | ------- |
@@ -487,6 +489,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1195-distribute-candies-to-people](https://github.com/rajkumar060301/leet-code/tree/master/1195-distribute-candies-to-people) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rajkumar060301/leet-code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rajkumar060301/leet-code/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2195-time-needed-to-buy-tickets](https://github.com/rajkumar060301/leet-code/tree/master/2195-time-needed-to-buy-tickets) |
 ## Prefix Sum
 |  |
 | ------- |
