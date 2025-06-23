@@ -169,6 +169,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0830-largest-triangle-area](https://github.com/rajkumar060301/leet-code/tree/master/0830-largest-triangle-area) |
 | [0835-linked-list-components](https://github.com/rajkumar060301/leet-code/tree/master/0835-linked-list-components) |
 | [0837-most-common-word](https://github.com/rajkumar060301/leet-code/tree/master/0837-most-common-word) |
+| [0860-design-circular-queue](https://github.com/rajkumar060301/leet-code/tree/master/0860-design-circular-queue) |
 | [0878-shifting-letters](https://github.com/rajkumar060301/leet-code/tree/master/0878-shifting-letters) |
 | [0926-find-and-replace-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0926-find-and-replace-pattern) |
 | [0944-smallest-range-i](https://github.com/rajkumar060301/leet-code/tree/master/0944-smallest-range-i) |
@@ -281,6 +282,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rajkumar060301/leet-code/tree/master/0387-first-unique-character-in-a-string) |
+| [0860-design-circular-queue](https://github.com/rajkumar060301/leet-code/tree/master/0860-design-circular-queue) |
 | [2195-time-needed-to-buy-tickets](https://github.com/rajkumar060301/leet-code/tree/master/2195-time-needed-to-buy-tickets) |
 ## Counting
 |  |
@@ -554,6 +556,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/rajkumar060301/leet-code/tree/master/0835-linked-list-components) |
 | [0838-design-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/rajkumar060301/leet-code/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajkumar060301/leet-code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Database
@@ -569,6 +572,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | ------- |
 | [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/rajkumar060301/leet-code/tree/master/0860-design-circular-queue) |
 ## Hash Function
 |  |
 | ------- |
