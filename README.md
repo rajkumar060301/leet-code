@@ -90,6 +90,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rajkumar060301/leet-code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rajkumar060301/leet-code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/rajkumar060301/leet-code/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/rajkumar060301/leet-code/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2235-capitalize-the-title](https://github.com/rajkumar060301/leet-code/tree/master/2235-capitalize-the-title) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rajkumar060301/leet-code/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/rajkumar060301/leet-code/tree/master/2819-remove-trailing-zeros-from-a-string) |
@@ -195,6 +196,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/rajkumar060301/leet-code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rajkumar060301/leet-code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2159-two-out-of-three](https://github.com/rajkumar060301/leet-code/tree/master/2159-two-out-of-three) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/rajkumar060301/leet-code/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2195-time-needed-to-buy-tickets](https://github.com/rajkumar060301/leet-code/tree/master/2195-time-needed-to-buy-tickets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajkumar060301/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
 ## Backtracking
@@ -253,6 +255,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rajkumar060301/leet-code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/rajkumar060301/leet-code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/rajkumar060301/leet-code/tree/master/2159-two-out-of-three) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/rajkumar060301/leet-code/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajkumar060301/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -296,6 +299,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1925-count-nice-pairs-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rajkumar060301/leet-code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/rajkumar060301/leet-code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/rajkumar060301/leet-code/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Math
 |  |
 | ------- |
