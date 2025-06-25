@@ -69,6 +69,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0680-valid-palindrome-ii](https://github.com/rajkumar060301/leet-code/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/rajkumar060301/leet-code/tree/master/0742-to-lower-case) |
+| [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 | [0812-rotate-string](https://github.com/rajkumar060301/leet-code/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/rajkumar060301/leet-code/tree/master/0837-most-common-word) |
 | [0878-shifting-letters](https://github.com/rajkumar060301/leet-code/tree/master/0878-shifting-letters) |
@@ -166,6 +167,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0697-degree-of-an-array) |
 | [0777-toeplitz-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0777-toeplitz-matrix) |
+| [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/rajkumar060301/leet-code/tree/master/0830-largest-triangle-area) |
 | [0835-linked-list-components](https://github.com/rajkumar060301/leet-code/tree/master/0835-linked-list-components) |
@@ -238,6 +240,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0645-set-mismatch](https://github.com/rajkumar060301/leet-code/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0697-degree-of-an-array) |
+| [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/rajkumar060301/leet-code/tree/master/0835-linked-list-components) |
 | [0837-most-common-word](https://github.com/rajkumar060301/leet-code/tree/master/0837-most-common-word) |
@@ -274,6 +277,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0628-maximum-product-of-three-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/rajkumar060301/leet-code/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
+| [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 | [0935-orderly-queue](https://github.com/rajkumar060301/leet-code/tree/master/0935-orderly-queue) |
 | [0948-sort-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/rajkumar060301/leet-code/tree/master/1137-height-checker) |
@@ -369,6 +373,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0494-target-sum](https://github.com/rajkumar060301/leet-code/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/rajkumar060301/leet-code/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 | [1105-uncrossed-lines](https://github.com/rajkumar060301/leet-code/tree/master/1105-uncrossed-lines) |
 | [1236-n-th-tribonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1236-n-th-tribonacci-number) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rajkumar060301/leet-code/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -450,6 +455,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0441-arranging-coins](https://github.com/rajkumar060301/leet-code/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0633-sum-of-square-numbers) |
+| [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 ## Ordered Set
 |  |
 | ------- |
@@ -531,6 +537,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
+| [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 | [1080-camelcase-matching](https://github.com/rajkumar060301/leet-code/tree/master/1080-camelcase-matching) |
 ## Geometry
 |  |
