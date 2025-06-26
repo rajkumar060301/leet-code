@@ -62,6 +62,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0459-repeated-substring-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/rajkumar060301/leet-code/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/rajkumar060301/leet-code/tree/master/0500-keyboard-row) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/rajkumar060301/leet-code/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0541-reverse-string-ii](https://github.com/rajkumar060301/leet-code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rajkumar060301/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/rajkumar060301/leet-code/tree/master/0567-permutation-in-string) |
@@ -157,6 +158,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0494-target-sum](https://github.com/rajkumar060301/leet-code/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/rajkumar060301/leet-code/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/rajkumar060301/leet-code/tree/master/0500-keyboard-row) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/rajkumar060301/leet-code/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0525-contiguous-array](https://github.com/rajkumar060301/leet-code/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/rajkumar060301/leet-code/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rajkumar060301/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -234,6 +236,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0454-4sum-ii](https://github.com/rajkumar060301/leet-code/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/rajkumar060301/leet-code/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/rajkumar060301/leet-code/tree/master/0500-keyboard-row) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/rajkumar060301/leet-code/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0525-contiguous-array](https://github.com/rajkumar060301/leet-code/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/rajkumar060301/leet-code/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rajkumar060301/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -273,6 +276,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0389-find-the-difference](https://github.com/rajkumar060301/leet-code/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/rajkumar060301/leet-code/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/rajkumar060301/leet-code/tree/master/0455-assign-cookies) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/rajkumar060301/leet-code/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0561-array-partition](https://github.com/rajkumar060301/leet-code/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/rajkumar060301/leet-code/tree/master/0645-set-mismatch) |
@@ -433,6 +437,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajkumar060301/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/rajkumar060301/leet-code/tree/master/0455-assign-cookies) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/rajkumar060301/leet-code/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0541-reverse-string-ii](https://github.com/rajkumar060301/leet-code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rajkumar060301/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/rajkumar060301/leet-code/tree/master/0567-permutation-in-string) |
