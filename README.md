@@ -135,6 +135,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0053-maximum-subarray](https://github.com/rajkumar060301/leet-code/tree/master/0053-maximum-subarray) |
 | [0090-subsets-ii](https://github.com/rajkumar060301/leet-code/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/rajkumar060301/leet-code/tree/master/0120-triangle) |
+| [0169-majority-element](https://github.com/rajkumar060301/leet-code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rajkumar060301/leet-code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/rajkumar060301/leet-code/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajkumar060301/leet-code/tree/master/0209-minimum-size-subarray-sum) |
@@ -217,6 +218,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0141-linked-list-cycle](https://github.com/rajkumar060301/leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajkumar060301/leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rajkumar060301/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/rajkumar060301/leet-code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rajkumar060301/leet-code/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/rajkumar060301/leet-code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/rajkumar060301/leet-code/tree/master/0217-contains-duplicate) |
@@ -268,6 +270,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | ------- |
 | [0049-group-anagrams](https://github.com/rajkumar060301/leet-code/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/rajkumar060301/leet-code/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/rajkumar060301/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rajkumar060301/leet-code/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/rajkumar060301/leet-code/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/rajkumar060301/leet-code/tree/master/0242-valid-anagram) |
@@ -298,6 +301,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rajkumar060301/leet-code/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/rajkumar060301/leet-code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajkumar060301/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
@@ -402,6 +406,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | ------- |
 | [0053-maximum-subarray](https://github.com/rajkumar060301/leet-code/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/rajkumar060301/leet-code/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/rajkumar060301/leet-code/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/rajkumar060301/leet-code/tree/master/0190-reverse-bits) |
 | [0372-super-pow](https://github.com/rajkumar060301/leet-code/tree/master/0372-super-pow) |
 | [0948-sort-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0948-sort-an-array) |
