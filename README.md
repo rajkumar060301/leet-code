@@ -67,6 +67,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0557-reverse-words-in-a-string-iii](https://github.com/rajkumar060301/leet-code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/rajkumar060301/leet-code/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rajkumar060301/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0648-replace-words](https://github.com/rajkumar060301/leet-code/tree/master/0648-replace-words) |
 | [0680-valid-palindrome-ii](https://github.com/rajkumar060301/leet-code/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
@@ -167,6 +168,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0605-can-place-flowers](https://github.com/rajkumar060301/leet-code/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/rajkumar060301/leet-code/tree/master/0645-set-mismatch) |
+| [0648-replace-words](https://github.com/rajkumar060301/leet-code/tree/master/0648-replace-words) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0697-degree-of-an-array) |
@@ -245,6 +247,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0567-permutation-in-string](https://github.com/rajkumar060301/leet-code/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rajkumar060301/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/rajkumar060301/leet-code/tree/master/0645-set-mismatch) |
+| [0648-replace-words](https://github.com/rajkumar060301/leet-code/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0697-degree-of-an-array) |
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
@@ -550,6 +553,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Trie
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/rajkumar060301/leet-code/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 | [1080-camelcase-matching](https://github.com/rajkumar060301/leet-code/tree/master/1080-camelcase-matching) |
