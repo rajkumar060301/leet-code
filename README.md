@@ -132,6 +132,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rajkumar060301/leet-code/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/rajkumar060301/leet-code/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/rajkumar060301/leet-code/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/rajkumar060301/leet-code/tree/master/0048-rotate-image) |
@@ -224,6 +225,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rajkumar060301/leet-code/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/rajkumar060301/leet-code/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/rajkumar060301/leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajkumar060301/leet-code/tree/master/0142-linked-list-cycle-ii) |
