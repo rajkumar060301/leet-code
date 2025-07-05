@@ -1,25 +1,33 @@
+import java.util.*;
+
 class Solution {
-  public List<List<Integer>> permute(int[] nums) {
-    List<List<Integer>> ans = new ArrayList<>();
-
-    dfs(nums, new boolean[nums.length], new ArrayList<>(), ans);
-    return ans;
-  }
-
-  private void dfs(int[] nums, boolean[] used, List<Integer> path, List<List<Integer>> ans) {
-    if (path.size() == nums.length) {
-      ans.add(new ArrayList<>(path));
-      return;
+    public List<List<Integer>> permute(int[] nums) {
+        List<List<Integer>> result = new ArrayList<>();
+        backtrack(nums, 0, result);
+        return result;
     }
 
-    for (int i = 0; i < nums.length; ++i) {
-      if (used[i])
-        continue;
-      used[i] = true;
-      path.add(nums[i]);
-      dfs(nums, used, path, ans);
-      path.remove(path.size() - 1);
-      used[i] = false;
+    private void backtrack(int[] nums, int start, List<List<Integer>> result) {
+        if (start == nums.length) {
+            // Convert array to list and add a copy
+            List<Integer> permutation = new ArrayList<>();
+            for (int num : nums) {
+                permutation.add(num);
+            }
+            result.add(permutation);
+            return;
+        }
+
+        for (int i = start; i < nums.length; i++) {
+            swap(nums, start, i);
+            backtrack(nums, start + 1, result);
+            swap(nums, start, i);
+        }
     }
-  }
+
+    private void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+    }
 }
