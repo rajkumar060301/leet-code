@@ -332,6 +332,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/rajkumar060301/leet-code/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/rajkumar060301/leet-code/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/rajkumar060301/leet-code/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/rajkumar060301/leet-code/tree/master/0168-excel-sheet-column-title) |
