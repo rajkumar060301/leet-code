@@ -1,6 +1,6 @@
 class Solution {
     public int findLUSlength(String[] strs) {
-        Arrays.sort(strs, (a, b) -> b.length() - a.length()); // Sort by length descending
+        Arrays.sort(strs, (a, b) -> b.length() - a.length());
         
         for (int i = 0; i < strs.length; i++) {
             boolean isUncommon = true;
@@ -13,7 +13,7 @@ class Solution {
             }
 
             if (isUncommon) {
-                return strs[i].length(); // First longest uncommon string
+                return strs[i].length();
             }
         }
 
