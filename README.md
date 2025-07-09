@@ -55,6 +55,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0392-is-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/rajkumar060301/leet-code/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/rajkumar060301/leet-code/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/rajkumar060301/leet-code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/rajkumar060301/leet-code/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/rajkumar060301/leet-code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rajkumar060301/leet-code/tree/master/0415-add-strings) |
