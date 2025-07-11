@@ -140,6 +140,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0048-rotate-image](https://github.com/rajkumar060301/leet-code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rajkumar060301/leet-code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rajkumar060301/leet-code/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/rajkumar060301/leet-code/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rajkumar060301/leet-code/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rajkumar060301/leet-code/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/rajkumar060301/leet-code/tree/master/0120-triangle) |
@@ -220,6 +221,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0046-permutations](https://github.com/rajkumar060301/leet-code/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/rajkumar060301/leet-code/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rajkumar060301/leet-code/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rajkumar060301/leet-code/tree/master/0090-subsets-ii) |
 | [0306-additive-number](https://github.com/rajkumar060301/leet-code/tree/master/0306-additive-number) |
@@ -438,6 +440,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rajkumar060301/leet-code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rajkumar060301/leet-code/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/rajkumar060301/leet-code/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/rajkumar060301/leet-code/tree/master/0231-power-of-two) |
