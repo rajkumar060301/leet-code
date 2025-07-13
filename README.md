@@ -339,6 +339,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0009-palindrome-number](https://github.com/rajkumar060301/leet-code/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/rajkumar060301/leet-code/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/rajkumar060301/leet-code/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/rajkumar060301/leet-code/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/rajkumar060301/leet-code/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/rajkumar060301/leet-code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rajkumar060301/leet-code/tree/master/0202-happy-number) |
@@ -396,6 +397,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0044-wildcard-matching](https://github.com/rajkumar060301/leet-code/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/rajkumar060301/leet-code/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rajkumar060301/leet-code/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/rajkumar060301/leet-code/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/rajkumar060301/leet-code/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/rajkumar060301/leet-code/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/rajkumar060301/leet-code/tree/master/0120-triangle) |
@@ -589,6 +591,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rajkumar060301/leet-code/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1236-n-th-tribonacci-number) |
 ## Linked List
 |  |
