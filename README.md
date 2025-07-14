@@ -144,6 +144,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0079-word-search](https://github.com/rajkumar060301/leet-code/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rajkumar060301/leet-code/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/rajkumar060301/leet-code/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rajkumar060301/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/rajkumar060301/leet-code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rajkumar060301/leet-code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/rajkumar060301/leet-code/tree/master/0204-count-primes) |
@@ -401,6 +402,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0072-edit-distance](https://github.com/rajkumar060301/leet-code/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/rajkumar060301/leet-code/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/rajkumar060301/leet-code/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rajkumar060301/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/rajkumar060301/leet-code/tree/master/0132-palindrome-partitioning-ii) |
 | [0377-combination-sum-iv](https://github.com/rajkumar060301/leet-code/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0392-is-subsequence) |
