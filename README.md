@@ -92,6 +92,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1297-maximum-number-of-balloons](https://github.com/rajkumar060301/leet-code/tree/master/1297-maximum-number-of-balloons) |
 | [1308-smallest-string-with-swaps](https://github.com/rajkumar060301/leet-code/tree/master/1308-smallest-string-with-swaps) |
 | [1532-reformat-the-string](https://github.com/rajkumar060301/leet-code/tree/master/1532-reformat-the-string) |
+| [1666-make-the-string-great](https://github.com/rajkumar060301/leet-code/tree/master/1666-make-the-string-great) |
 | [1751-slowest-key](https://github.com/rajkumar060301/leet-code/tree/master/1751-slowest-key) |
 | [1764-maximum-repeating-substring](https://github.com/rajkumar060301/leet-code/tree/master/1764-maximum-repeating-substring) |
 | [1944-truncate-sentence](https://github.com/rajkumar060301/leet-code/tree/master/1944-truncate-sentence) |
@@ -112,6 +113,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0456-132-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/rajkumar060301/leet-code/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rajkumar060301/leet-code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1666-make-the-string-great](https://github.com/rajkumar060301/leet-code/tree/master/1666-make-the-string-great) |
 ## Greedy
 |  |
 | ------- |
