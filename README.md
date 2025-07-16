@@ -184,6 +184,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0697-degree-of-an-array) |
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/rajkumar060301/leet-code/tree/master/0740-delete-and-earn) |
 | [0777-toeplitz-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0777-toeplitz-matrix) |
 | [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
@@ -266,6 +267,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0697-degree-of-an-array) |
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/rajkumar060301/leet-code/tree/master/0740-delete-and-earn) |
 | [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/rajkumar060301/leet-code/tree/master/0835-linked-list-components) |
@@ -414,6 +416,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0647-palindromic-substrings](https://github.com/rajkumar060301/leet-code/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/rajkumar060301/leet-code/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0740-delete-and-earn](https://github.com/rajkumar060301/leet-code/tree/master/0740-delete-and-earn) |
 | [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 | [1105-uncrossed-lines](https://github.com/rajkumar060301/leet-code/tree/master/1105-uncrossed-lines) |
 | [1236-n-th-tribonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1236-n-th-tribonacci-number) |
