@@ -145,6 +145,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0048-rotate-image](https://github.com/rajkumar060301/leet-code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rajkumar060301/leet-code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rajkumar060301/leet-code/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/rajkumar060301/leet-code/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rajkumar060301/leet-code/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rajkumar060301/leet-code/tree/master/0090-subsets-ii) |
@@ -403,6 +404,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rajkumar060301/leet-code/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/rajkumar060301/leet-code/tree/master/0079-word-search) |
 | [0542-01-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0542-01-matrix) |
 | [0777-toeplitz-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0777-toeplitz-matrix) |
@@ -560,6 +562,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/rajkumar060301/leet-code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rajkumar060301/leet-code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rajkumar060301/leet-code/tree/master/0415-add-strings) |
