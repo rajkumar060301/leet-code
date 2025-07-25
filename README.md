@@ -45,6 +45,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0165-compare-version-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/rajkumar060301/leet-code/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/rajkumar060301/leet-code/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/rajkumar060301/leet-code/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/rajkumar060301/leet-code/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/rajkumar060301/leet-code/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0290-word-pattern) |
@@ -527,6 +528,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/rajkumar060301/leet-code/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/rajkumar060301/leet-code/tree/master/0812-rotate-string) |
 | [1080-camelcase-matching](https://github.com/rajkumar060301/leet-code/tree/master/1080-camelcase-matching) |
@@ -657,6 +659,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/rajkumar060301/leet-code/tree/master/0214-shortest-palindrome) |
 | [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
 ## Binary Indexed Tree
 |  |
@@ -687,4 +690,8 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/rajkumar060301/leet-code/tree/master/0319-bulb-switcher) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/rajkumar060301/leet-code/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
