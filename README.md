@@ -141,6 +141,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | ------- |
 | [0001-two-sum](https://github.com/rajkumar060301/leet-code/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/rajkumar060301/leet-code/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/rajkumar060301/leet-code/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/rajkumar060301/leet-code/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/rajkumar060301/leet-code/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/rajkumar060301/leet-code/tree/master/0048-rotate-image) |
@@ -304,6 +305,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rajkumar060301/leet-code/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/rajkumar060301/leet-code/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/rajkumar060301/leet-code/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rajkumar060301/leet-code/tree/master/0169-majority-element) |
@@ -482,6 +484,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rajkumar060301/leet-code/tree/master/0015-3sum) |
 | [0086-partition-list](https://github.com/rajkumar060301/leet-code/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/rajkumar060301/leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajkumar060301/leet-code/tree/master/0142-linked-list-cycle-ii) |
