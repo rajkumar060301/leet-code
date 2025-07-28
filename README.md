@@ -680,11 +680,13 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rajkumar060301/leet-code/tree/master/0079-word-search) |
+| [0112-path-sum](https://github.com/rajkumar060301/leet-code/tree/master/0112-path-sum) |
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
 | [1308-smallest-string-with-swaps](https://github.com/rajkumar060301/leet-code/tree/master/1308-smallest-string-with-swaps) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/rajkumar060301/leet-code/tree/master/0112-path-sum) |
 | [0542-01-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
 | [1308-smallest-string-with-swaps](https://github.com/rajkumar060301/leet-code/tree/master/1308-smallest-string-with-swaps) |
@@ -701,4 +703,12 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/rajkumar060301/leet-code/tree/master/0214-shortest-palindrome) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/rajkumar060301/leet-code/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/rajkumar060301/leet-code/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
