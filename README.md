@@ -375,6 +375,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0258-add-digits](https://github.com/rajkumar060301/leet-code/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rajkumar060301/leet-code/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/rajkumar060301/leet-code/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/rajkumar060301/leet-code/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/rajkumar060301/leet-code/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/rajkumar060301/leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajkumar060301/leet-code/tree/master/0342-power-of-four) |
@@ -430,6 +431,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0120-triangle](https://github.com/rajkumar060301/leet-code/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajkumar060301/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/rajkumar060301/leet-code/tree/master/0132-palindrome-partitioning-ii) |
+| [0279-perfect-squares](https://github.com/rajkumar060301/leet-code/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/rajkumar060301/leet-code/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/rajkumar060301/leet-code/tree/master/0396-rotate-function) |
@@ -691,6 +693,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/rajkumar060301/leet-code/tree/master/0112-path-sum) |
+| [0279-perfect-squares](https://github.com/rajkumar060301/leet-code/tree/master/0279-perfect-squares) |
 | [0542-01-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
 | [1308-smallest-string-with-swaps](https://github.com/rajkumar060301/leet-code/tree/master/1308-smallest-string-with-swaps) |
