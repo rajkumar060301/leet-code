@@ -379,6 +379,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0319-bulb-switcher](https://github.com/rajkumar060301/leet-code/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/rajkumar060301/leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajkumar060301/leet-code/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/rajkumar060301/leet-code/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/rajkumar060301/leet-code/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/rajkumar060301/leet-code/tree/master/0372-super-pow) |
 | [0396-rotate-function](https://github.com/rajkumar060301/leet-code/tree/master/0396-rotate-function) |
@@ -432,6 +433,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajkumar060301/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/rajkumar060301/leet-code/tree/master/0132-palindrome-partitioning-ii) |
 | [0279-perfect-squares](https://github.com/rajkumar060301/leet-code/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/rajkumar060301/leet-code/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/rajkumar060301/leet-code/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/rajkumar060301/leet-code/tree/master/0396-rotate-function) |
