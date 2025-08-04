@@ -123,6 +123,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rajkumar060301/leet-code/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/rajkumar060301/leet-code/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/rajkumar060301/leet-code/tree/master/0045-jump-game-ii) |
 | [0402-remove-k-digits](https://github.com/rajkumar060301/leet-code/tree/master/0402-remove-k-digits) |
@@ -143,6 +144,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajkumar060301/leet-code/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rajkumar060301/leet-code/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/rajkumar060301/leet-code/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/rajkumar060301/leet-code/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/rajkumar060301/leet-code/tree/master/0045-jump-game-ii) |
@@ -493,6 +495,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rajkumar060301/leet-code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rajkumar060301/leet-code/tree/master/0015-3sum) |
 | [0086-partition-list](https://github.com/rajkumar060301/leet-code/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/rajkumar060301/leet-code/tree/master/0141-linked-list-cycle) |
