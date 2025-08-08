@@ -162,6 +162,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0162-find-peak-element](https://github.com/rajkumar060301/leet-code/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/rajkumar060301/leet-code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rajkumar060301/leet-code/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/rajkumar060301/leet-code/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/rajkumar060301/leet-code/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajkumar060301/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/rajkumar060301/leet-code/tree/master/0217-contains-duplicate) |
@@ -439,6 +440,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0120-triangle](https://github.com/rajkumar060301/leet-code/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajkumar060301/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/rajkumar060301/leet-code/tree/master/0132-palindrome-partitioning-ii) |
+| [0198-house-robber](https://github.com/rajkumar060301/leet-code/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/rajkumar060301/leet-code/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/rajkumar060301/leet-code/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/rajkumar060301/leet-code/tree/master/0377-combination-sum-iv) |
