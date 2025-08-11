@@ -173,6 +173,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0238-product-of-array-except-self](https://github.com/rajkumar060301/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rajkumar060301/leet-code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rajkumar060301/leet-code/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/rajkumar060301/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajkumar060301/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/rajkumar060301/leet-code/tree/master/0377-combination-sum-iv) |
@@ -444,6 +445,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0132-palindrome-partitioning-ii](https://github.com/rajkumar060301/leet-code/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/rajkumar060301/leet-code/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/rajkumar060301/leet-code/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/rajkumar060301/leet-code/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/rajkumar060301/leet-code/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0392-is-subsequence) |
@@ -544,6 +546,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0162-find-peak-element](https://github.com/rajkumar060301/leet-code/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajkumar060301/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/rajkumar060301/leet-code/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/rajkumar060301/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajkumar060301/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/rajkumar060301/leet-code/tree/master/0367-valid-perfect-square) |
