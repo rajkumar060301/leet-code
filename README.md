@@ -215,6 +215,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0837-most-common-word](https://github.com/rajkumar060301/leet-code/tree/master/0837-most-common-word) |
 | [0860-design-circular-queue](https://github.com/rajkumar060301/leet-code/tree/master/0860-design-circular-queue) |
 | [0878-shifting-letters](https://github.com/rajkumar060301/leet-code/tree/master/0878-shifting-letters) |
+| [0907-koko-eating-bananas](https://github.com/rajkumar060301/leet-code/tree/master/0907-koko-eating-bananas) |
 | [0926-find-and-replace-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0926-find-and-replace-pattern) |
 | [0944-smallest-range-i](https://github.com/rajkumar060301/leet-code/tree/master/0944-smallest-range-i) |
 | [0948-sort-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0948-sort-an-array) |
@@ -561,6 +562,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0456-132-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0633-sum-of-square-numbers) |
 | [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
+| [0907-koko-eating-bananas](https://github.com/rajkumar060301/leet-code/tree/master/0907-koko-eating-bananas) |
 ## Ordered Set
 |  |
 | ------- |
