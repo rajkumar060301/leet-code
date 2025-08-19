@@ -240,6 +240,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1751-slowest-key](https://github.com/rajkumar060301/leet-code/tree/master/1751-slowest-key) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1944-truncate-sentence](https://github.com/rajkumar060301/leet-code/tree/master/1944-truncate-sentence) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rajkumar060301/leet-code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/rajkumar060301/leet-code/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/rajkumar060301/leet-code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rajkumar060301/leet-code/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -360,6 +361,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rajkumar060301/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/rajkumar060301/leet-code/tree/master/0860-design-circular-queue) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rajkumar060301/leet-code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/rajkumar060301/leet-code/tree/master/2195-time-needed-to-buy-tickets) |
 ## Counting
 |  |
@@ -431,6 +433,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajkumar060301/leet-code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1761-count-sorted-vowel-strings](https://github.com/rajkumar060301/leet-code/tree/master/1761-count-sorted-vowel-strings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rajkumar060301/leet-code/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
 |  |
 | ------- |
@@ -491,6 +494,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0342-power-of-four](https://github.com/rajkumar060301/leet-code/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/rajkumar060301/leet-code/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rajkumar060301/leet-code/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -617,6 +621,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0412-fizz-buzz](https://github.com/rajkumar060301/leet-code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rajkumar060301/leet-code/tree/master/0415-add-strings) |
 | [1195-distribute-candies-to-people](https://github.com/rajkumar060301/leet-code/tree/master/1195-distribute-candies-to-people) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rajkumar060301/leet-code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rajkumar060301/leet-code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rajkumar060301/leet-code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/rajkumar060301/leet-code/tree/master/2195-time-needed-to-buy-tickets) |
