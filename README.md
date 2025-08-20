@@ -42,6 +42,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0072-edit-distance](https://github.com/rajkumar060301/leet-code/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/rajkumar060301/leet-code/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/rajkumar060301/leet-code/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/rajkumar060301/leet-code/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/rajkumar060301/leet-code/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/rajkumar060301/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0165-compare-version-numbers) |
@@ -525,6 +526,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0015-3sum](https://github.com/rajkumar060301/leet-code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajkumar060301/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0086-partition-list](https://github.com/rajkumar060301/leet-code/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/rajkumar060301/leet-code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rajkumar060301/leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajkumar060301/leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rajkumar060301/leet-code/tree/master/0143-reorder-list) |
