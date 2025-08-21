@@ -151,6 +151,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0014-longest-common-prefix](https://github.com/rajkumar060301/leet-code/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/rajkumar060301/leet-code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajkumar060301/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/rajkumar060301/leet-code/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajkumar060301/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/rajkumar060301/leet-code/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/rajkumar060301/leet-code/tree/master/0046-permutations) |
@@ -525,6 +526,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0011-container-with-most-water](https://github.com/rajkumar060301/leet-code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rajkumar060301/leet-code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajkumar060301/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/rajkumar060301/leet-code/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/rajkumar060301/leet-code/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/rajkumar060301/leet-code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rajkumar060301/leet-code/tree/master/0141-linked-list-cycle) |
