@@ -390,6 +390,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0007-reverse-integer](https://github.com/rajkumar060301/leet-code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rajkumar060301/leet-code/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/rajkumar060301/leet-code/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/rajkumar060301/leet-code/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/rajkumar060301/leet-code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rajkumar060301/leet-code/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/rajkumar060301/leet-code/tree/master/0168-excel-sheet-column-title) |
@@ -454,6 +455,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0044-wildcard-matching](https://github.com/rajkumar060301/leet-code/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/rajkumar060301/leet-code/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rajkumar060301/leet-code/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/rajkumar060301/leet-code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rajkumar060301/leet-code/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/rajkumar060301/leet-code/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/rajkumar060301/leet-code/tree/master/0097-interleaving-string) |
@@ -712,6 +714,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rajkumar060301/leet-code/tree/master/0062-unique-paths) |
 | [1761-count-sorted-vowel-strings](https://github.com/rajkumar060301/leet-code/tree/master/1761-count-sorted-vowel-strings) |
 ## Design
 |  |
