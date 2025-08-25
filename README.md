@@ -177,6 +177,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0217-contains-duplicate](https://github.com/rajkumar060301/leet-code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rajkumar060301/leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/rajkumar060301/leet-code/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/rajkumar060301/leet-code/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/rajkumar060301/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rajkumar060301/leet-code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rajkumar060301/leet-code/tree/master/0287-find-the-duplicate-number) |
@@ -278,6 +279,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0205-isomorphic-strings](https://github.com/rajkumar060301/leet-code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/rajkumar060301/leet-code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rajkumar060301/leet-code/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/rajkumar060301/leet-code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rajkumar060301/leet-code/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/rajkumar060301/leet-code/tree/master/0349-intersection-of-two-arrays) |
@@ -337,6 +339,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0169-majority-element](https://github.com/rajkumar060301/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rajkumar060301/leet-code/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/rajkumar060301/leet-code/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/rajkumar060301/leet-code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rajkumar060301/leet-code/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rajkumar060301/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajkumar060301/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -371,6 +374,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rajkumar060301/leet-code/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rajkumar060301/leet-code/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/rajkumar060301/leet-code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajkumar060301/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
