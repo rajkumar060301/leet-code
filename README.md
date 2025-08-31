@@ -34,6 +34,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rajkumar060301/leet-code/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/rajkumar060301/leet-code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rajkumar060301/leet-code/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/rajkumar060301/leet-code/tree/master/0044-wildcard-matching) |
@@ -271,6 +272,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajkumar060301/leet-code/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/rajkumar060301/leet-code/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/rajkumar060301/leet-code/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/rajkumar060301/leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajkumar060301/leet-code/tree/master/0142-linked-list-cycle-ii) |
@@ -394,6 +396,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0002-add-two-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/rajkumar060301/leet-code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rajkumar060301/leet-code/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/rajkumar060301/leet-code/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/rajkumar060301/leet-code/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/rajkumar060301/leet-code/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/rajkumar060301/leet-code/tree/master/0069-sqrtx) |
