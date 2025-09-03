@@ -121,6 +121,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0402-remove-k-digits](https://github.com/rajkumar060301/leet-code/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/rajkumar060301/leet-code/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/rajkumar060301/leet-code/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rajkumar060301/leet-code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/rajkumar060301/leet-code/tree/master/1666-make-the-string-great) |
 ## Greedy
@@ -144,6 +145,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0402-remove-k-digits](https://github.com/rajkumar060301/leet-code/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/rajkumar060301/leet-code/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/rajkumar060301/leet-code/tree/master/0739-daily-temperatures) |
 ## Array
 |  |
 | ------- |
@@ -213,6 +215,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0697-degree-of-an-array) |
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
+| [0739-daily-temperatures](https://github.com/rajkumar060301/leet-code/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/rajkumar060301/leet-code/tree/master/0740-delete-and-earn) |
 | [0777-toeplitz-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0777-toeplitz-matrix) |
 | [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
