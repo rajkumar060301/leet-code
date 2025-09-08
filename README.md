@@ -179,6 +179,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0198-house-robber](https://github.com/rajkumar060301/leet-code/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/rajkumar060301/leet-code/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajkumar060301/leet-code/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rajkumar060301/leet-code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rajkumar060301/leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/rajkumar060301/leet-code/tree/master/0220-contains-duplicate-iii) |
@@ -346,6 +347,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0056-merge-intervals](https://github.com/rajkumar060301/leet-code/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/rajkumar060301/leet-code/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rajkumar060301/leet-code/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rajkumar060301/leet-code/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/rajkumar060301/leet-code/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/rajkumar060301/leet-code/tree/master/0229-majority-element-ii) |
@@ -525,6 +527,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0148-sort-list](https://github.com/rajkumar060301/leet-code/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rajkumar060301/leet-code/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/rajkumar060301/leet-code/tree/master/0190-reverse-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0372-super-pow](https://github.com/rajkumar060301/leet-code/tree/master/0372-super-pow) |
 | [0948-sort-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0948-sort-an-array) |
 ## Bit Manipulation
@@ -619,6 +622,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0948-sort-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajkumar060301/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -793,4 +797,8 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/rajkumar060301/leet-code/tree/master/0112-path-sum) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
