@@ -459,6 +459,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1761-count-sorted-vowel-strings](https://github.com/rajkumar060301/leet-code/tree/master/1761-count-sorted-vowel-strings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rajkumar060301/leet-code/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2288-count-operations-to-obtain-zero](https://github.com/rajkumar060301/leet-code/tree/master/2288-count-operations-to-obtain-zero) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/rajkumar060301/leet-code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Matrix
 |  |
@@ -663,6 +664,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rajkumar060301/leet-code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rajkumar060301/leet-code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/rajkumar060301/leet-code/tree/master/2195-time-needed-to-buy-tickets) |
+| [2288-count-operations-to-obtain-zero](https://github.com/rajkumar060301/leet-code/tree/master/2288-count-operations-to-obtain-zero) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/rajkumar060301/leet-code/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Prefix Sum
 |  |
