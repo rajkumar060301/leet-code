@@ -96,6 +96,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1146-greatest-common-divisor-of-strings](https://github.com/rajkumar060301/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1156-occurrences-after-bigram](https://github.com/rajkumar060301/leet-code/tree/master/1156-occurrences-after-bigram) |
 | [1260-day-of-the-year](https://github.com/rajkumar060301/leet-code/tree/master/1260-day-of-the-year) |
+| [1274-number-of-days-between-two-dates](https://github.com/rajkumar060301/leet-code/tree/master/1274-number-of-days-between-two-dates) |
 | [1297-maximum-number-of-balloons](https://github.com/rajkumar060301/leet-code/tree/master/1297-maximum-number-of-balloons) |
 | [1308-smallest-string-with-swaps](https://github.com/rajkumar060301/leet-code/tree/master/1308-smallest-string-with-swaps) |
 | [1532-reformat-the-string](https://github.com/rajkumar060301/leet-code/tree/master/1532-reformat-the-string) |
@@ -454,6 +455,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1195-distribute-candies-to-people](https://github.com/rajkumar060301/leet-code/tree/master/1195-distribute-candies-to-people) |
 | [1236-n-th-tribonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/rajkumar060301/leet-code/tree/master/1260-day-of-the-year) |
+| [1274-number-of-days-between-two-dates](https://github.com/rajkumar060301/leet-code/tree/master/1274-number-of-days-between-two-dates) |
 | [1289-day-of-the-week](https://github.com/rajkumar060301/leet-code/tree/master/1289-day-of-the-week) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajkumar060301/leet-code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1761-count-sorted-vowel-strings](https://github.com/rajkumar060301/leet-code/tree/master/1761-count-sorted-vowel-strings) |
