@@ -772,12 +772,14 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rajkumar060301/leet-code/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rajkumar060301/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rajkumar060301/leet-code/tree/master/0112-path-sum) |
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
 | [1308-smallest-string-with-swaps](https://github.com/rajkumar060301/leet-code/tree/master/1308-smallest-string-with-swaps) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rajkumar060301/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rajkumar060301/leet-code/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/rajkumar060301/leet-code/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/rajkumar060301/leet-code/tree/master/0322-coin-change) |
@@ -800,10 +802,12 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rajkumar060301/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rajkumar060301/leet-code/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rajkumar060301/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rajkumar060301/leet-code/tree/master/0112-path-sum) |
 ## Quickselect
 |  |
