@@ -50,6 +50,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0168-excel-sheet-column-title](https://github.com/rajkumar060301/leet-code/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/rajkumar060301/leet-code/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/rajkumar060301/leet-code/tree/master/0214-shortest-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/rajkumar060301/leet-code/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/rajkumar060301/leet-code/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/rajkumar060301/leet-code/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0290-word-pattern) |
@@ -118,6 +119,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajkumar060301/leet-code/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/rajkumar060301/leet-code/tree/master/0143-reorder-list) |
+| [0227-basic-calculator-ii](https://github.com/rajkumar060301/leet-code/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/rajkumar060301/leet-code/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/rajkumar060301/leet-code/tree/master/0402-remove-k-digits) |
@@ -423,6 +425,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0202-happy-number](https://github.com/rajkumar060301/leet-code/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/rajkumar060301/leet-code/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/rajkumar060301/leet-code/tree/master/0223-rectangle-area) |
+| [0227-basic-calculator-ii](https://github.com/rajkumar060301/leet-code/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/rajkumar060301/leet-code/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rajkumar060301/leet-code/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rajkumar060301/leet-code/tree/master/0263-ugly-number) |
