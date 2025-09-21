@@ -297,6 +297,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0219-contains-duplicate-ii](https://github.com/rajkumar060301/leet-code/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/rajkumar060301/leet-code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rajkumar060301/leet-code/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/rajkumar060301/leet-code/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/rajkumar060301/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajkumar060301/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -429,6 +430,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0231-power-of-two](https://github.com/rajkumar060301/leet-code/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rajkumar060301/leet-code/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rajkumar060301/leet-code/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/rajkumar060301/leet-code/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/rajkumar060301/leet-code/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/rajkumar060301/leet-code/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/rajkumar060301/leet-code/tree/master/0319-bulb-switcher) |
@@ -496,6 +498,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajkumar060301/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/rajkumar060301/leet-code/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/rajkumar060301/leet-code/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/rajkumar060301/leet-code/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/rajkumar060301/leet-code/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rajkumar060301/leet-code/tree/master/0322-coin-change) |
@@ -636,6 +639,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/rajkumar060301/leet-code/tree/master/0264-ugly-number-ii) |
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0948-sort-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajkumar060301/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
