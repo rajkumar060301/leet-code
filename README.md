@@ -252,6 +252,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1241-decompress-run-length-encoded-list](https://github.com/rajkumar060301/leet-code/tree/master/1241-decompress-run-length-encoded-list) |
 | [1308-smallest-string-with-swaps](https://github.com/rajkumar060301/leet-code/tree/master/1308-smallest-string-with-swaps) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rajkumar060301/leet-code/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1435-xor-queries-of-a-subarray](https://github.com/rajkumar060301/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rajkumar060301/leet-code/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajkumar060301/leet-code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajkumar060301/leet-code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -567,6 +568,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0389-find-the-difference](https://github.com/rajkumar060301/leet-code/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rajkumar060301/leet-code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/rajkumar060301/leet-code/tree/master/0645-set-mismatch) |
+| [1435-xor-queries-of-a-subarray](https://github.com/rajkumar060301/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rajkumar060301/leet-code/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2159-two-out-of-three](https://github.com/rajkumar060301/leet-code/tree/master/2159-two-out-of-three) |
 ## Two Pointers
@@ -697,6 +699,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0238-product-of-array-except-self](https://github.com/rajkumar060301/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/rajkumar060301/leet-code/tree/master/0525-contiguous-array) |
 | [0878-shifting-letters](https://github.com/rajkumar060301/leet-code/tree/master/0878-shifting-letters) |
+| [1435-xor-queries-of-a-subarray](https://github.com/rajkumar060301/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/rajkumar060301/leet-code/tree/master/1603-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
