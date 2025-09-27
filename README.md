@@ -118,6 +118,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajkumar060301/leet-code/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rajkumar060301/leet-code/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/rajkumar060301/leet-code/tree/master/0143-reorder-list) |
 | [0227-basic-calculator-ii](https://github.com/rajkumar060301/leet-code/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0234-palindrome-linked-list) |
@@ -147,6 +148,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rajkumar060301/leet-code/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/rajkumar060301/leet-code/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/rajkumar060301/leet-code/tree/master/0496-next-greater-element-i) |
@@ -163,6 +165,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0027-remove-element](https://github.com/rajkumar060301/leet-code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rajkumar060301/leet-code/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajkumar060301/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/rajkumar060301/leet-code/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rajkumar060301/leet-code/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/rajkumar060301/leet-code/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/rajkumar060301/leet-code/tree/master/0048-rotate-image) |
@@ -493,6 +496,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rajkumar060301/leet-code/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/rajkumar060301/leet-code/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/rajkumar060301/leet-code/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rajkumar060301/leet-code/tree/master/0053-maximum-subarray) |
@@ -579,6 +583,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajkumar060301/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rajkumar060301/leet-code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rajkumar060301/leet-code/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/rajkumar060301/leet-code/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/rajkumar060301/leet-code/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/rajkumar060301/leet-code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rajkumar060301/leet-code/tree/master/0141-linked-list-cycle) |
