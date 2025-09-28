@@ -182,6 +182,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajkumar060301/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/rajkumar060301/leet-code/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/rajkumar060301/leet-code/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajkumar060301/leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rajkumar060301/leet-code/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/rajkumar060301/leet-code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rajkumar060301/leet-code/tree/master/0189-rotate-array) |
@@ -623,6 +624,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajkumar060301/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/rajkumar060301/leet-code/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajkumar060301/leet-code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rajkumar060301/leet-code/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajkumar060301/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/rajkumar060301/leet-code/tree/master/0287-find-the-duplicate-number) |
