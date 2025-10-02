@@ -561,6 +561,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajkumar060301/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/rajkumar060301/leet-code/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/rajkumar060301/leet-code/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/rajkumar060301/leet-code/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rajkumar060301/leet-code/tree/master/0169-majority-element) |
@@ -665,6 +666,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rajkumar060301/leet-code/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/rajkumar060301/leet-code/tree/master/0264-ugly-number-ii) |
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
@@ -673,6 +675,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rajkumar060301/leet-code/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/rajkumar060301/leet-code/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0948-sort-an-array) |
 ## Bucket Sort
@@ -763,6 +766,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rajkumar060301/leet-code/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/rajkumar060301/leet-code/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/rajkumar060301/leet-code/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/rajkumar060301/leet-code/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/rajkumar060301/leet-code/tree/master/0141-linked-list-cycle) |
