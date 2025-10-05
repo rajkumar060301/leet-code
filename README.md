@@ -207,6 +207,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0377-combination-sum-iv](https://github.com/rajkumar060301/leet-code/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/rajkumar060301/leet-code/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/rajkumar060301/leet-code/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/rajkumar060301/leet-code/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rajkumar060301/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -525,6 +526,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0377-combination-sum-iv](https://github.com/rajkumar060301/leet-code/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/rajkumar060301/leet-code/tree/master/0396-rotate-function) |
+| [0416-partition-equal-subset-sum](https://github.com/rajkumar060301/leet-code/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rajkumar060301/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/rajkumar060301/leet-code/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0542-01-matrix) |
