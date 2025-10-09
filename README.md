@@ -121,6 +121,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0020-valid-parentheses](https://github.com/rajkumar060301/leet-code/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rajkumar060301/leet-code/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/rajkumar060301/leet-code/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/rajkumar060301/leet-code/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/rajkumar060301/leet-code/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/rajkumar060301/leet-code/tree/master/0394-decode-string) |
@@ -804,6 +805,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/rajkumar060301/leet-code/tree/master/0155-min-stack) |
 | [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/rajkumar060301/leet-code/tree/master/0860-design-circular-queue) |
