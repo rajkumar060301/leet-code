@@ -250,6 +250,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0878-shifting-letters](https://github.com/rajkumar060301/leet-code/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rajkumar060301/leet-code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/rajkumar060301/leet-code/tree/master/0907-koko-eating-bananas) |
+| [0909-stone-game](https://github.com/rajkumar060301/leet-code/tree/master/0909-stone-game) |
 | [0926-find-and-replace-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0926-find-and-replace-pattern) |
 | [0944-smallest-range-i](https://github.com/rajkumar060301/leet-code/tree/master/0944-smallest-range-i) |
 | [0948-sort-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0948-sort-an-array) |
@@ -477,6 +478,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0650-2-keys-keyboard](https://github.com/rajkumar060301/leet-code/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/rajkumar060301/leet-code/tree/master/0670-maximum-swap) |
 | [0830-largest-triangle-area](https://github.com/rajkumar060301/leet-code/tree/master/0830-largest-triangle-area) |
+| [0909-stone-game](https://github.com/rajkumar060301/leet-code/tree/master/0909-stone-game) |
 | [0935-orderly-queue](https://github.com/rajkumar060301/leet-code/tree/master/0935-orderly-queue) |
 | [0944-smallest-range-i](https://github.com/rajkumar060301/leet-code/tree/master/0944-smallest-range-i) |
 | [1010-powerful-integers](https://github.com/rajkumar060301/leet-code/tree/master/1010-powerful-integers) |
@@ -540,6 +542,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0740-delete-and-earn](https://github.com/rajkumar060301/leet-code/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/rajkumar060301/leet-code/tree/master/0747-min-cost-climbing-stairs) |
 | [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
+| [0909-stone-game](https://github.com/rajkumar060301/leet-code/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1013-fibonacci-number) |
 | [1105-uncrossed-lines](https://github.com/rajkumar060301/leet-code/tree/master/1105-uncrossed-lines) |
 | [1236-n-th-tribonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1236-n-th-tribonacci-number) |
@@ -867,4 +870,8 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/rajkumar060301/leet-code/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
