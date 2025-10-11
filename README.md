@@ -536,6 +536,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0435-non-overlapping-intervals](https://github.com/rajkumar060301/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/rajkumar060301/leet-code/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0542-01-matrix) |
+| [0576-out-of-boundary-paths](https://github.com/rajkumar060301/leet-code/tree/master/0576-out-of-boundary-paths) |
 | [0647-palindromic-substrings](https://github.com/rajkumar060301/leet-code/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/rajkumar060301/leet-code/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0673-number-of-longest-increasing-subsequence) |
