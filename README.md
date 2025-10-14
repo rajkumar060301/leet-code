@@ -253,6 +253,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0909-stone-game](https://github.com/rajkumar060301/leet-code/tree/master/0909-stone-game) |
 | [0926-find-and-replace-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0926-find-and-replace-pattern) |
 | [0944-smallest-range-i](https://github.com/rajkumar060301/leet-code/tree/master/0944-smallest-range-i) |
+| [0945-snakes-and-ladders](https://github.com/rajkumar060301/leet-code/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0948-sort-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/rajkumar060301/leet-code/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/rajkumar060301/leet-code/tree/master/1006-vowel-spellchecker) |
@@ -507,6 +508,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0079-word-search](https://github.com/rajkumar060301/leet-code/tree/master/0079-word-search) |
 | [0542-01-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0542-01-matrix) |
 | [0777-toeplitz-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0777-toeplitz-matrix) |
+| [0945-snakes-and-ladders](https://github.com/rajkumar060301/leet-code/tree/master/0945-snakes-and-ladders) |
 | [1677-matrix-diagonal-sum](https://github.com/rajkumar060301/leet-code/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rajkumar060301/leet-code/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
@@ -845,6 +847,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0322-coin-change](https://github.com/rajkumar060301/leet-code/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
+| [0945-snakes-and-ladders](https://github.com/rajkumar060301/leet-code/tree/master/0945-snakes-and-ladders) |
 | [1308-smallest-string-with-swaps](https://github.com/rajkumar060301/leet-code/tree/master/1308-smallest-string-with-swaps) |
 ## Union Find
 |  |
