@@ -226,6 +226,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0522-longest-uncommon-subsequence-ii](https://github.com/rajkumar060301/leet-code/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0525-contiguous-array](https://github.com/rajkumar060301/leet-code/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0542-01-matrix) |
+| [0553-optimal-division](https://github.com/rajkumar060301/leet-code/tree/master/0553-optimal-division) |
 | [0561-array-partition](https://github.com/rajkumar060301/leet-code/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rajkumar060301/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/rajkumar060301/leet-code/tree/master/0605-can-place-flowers) |
@@ -474,6 +475,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0492-construct-the-rectangle](https://github.com/rajkumar060301/leet-code/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/rajkumar060301/leet-code/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/rajkumar060301/leet-code/tree/master/0507-perfect-number) |
+| [0553-optimal-division](https://github.com/rajkumar060301/leet-code/tree/master/0553-optimal-division) |
 | [0593-valid-square](https://github.com/rajkumar060301/leet-code/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0633-sum-of-square-numbers) |
@@ -540,6 +542,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0435-non-overlapping-intervals](https://github.com/rajkumar060301/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/rajkumar060301/leet-code/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0542-01-matrix) |
+| [0553-optimal-division](https://github.com/rajkumar060301/leet-code/tree/master/0553-optimal-division) |
 | [0576-out-of-boundary-paths](https://github.com/rajkumar060301/leet-code/tree/master/0576-out-of-boundary-paths) |
 | [0647-palindromic-substrings](https://github.com/rajkumar060301/leet-code/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/rajkumar060301/leet-code/tree/master/0650-2-keys-keyboard) |
