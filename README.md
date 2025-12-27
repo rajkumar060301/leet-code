@@ -276,6 +276,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajkumar060301/leet-code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajkumar060301/leet-code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/rajkumar060301/leet-code/tree/master/1603-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/rajkumar060301/leet-code/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/rajkumar060301/leet-code/tree/master/1677-matrix-diagonal-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rajkumar060301/leet-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1751-slowest-key](https://github.com/rajkumar060301/leet-code/tree/master/1751-slowest-key) |
@@ -514,6 +515,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0542-01-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0542-01-matrix) |
 | [0777-toeplitz-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0777-toeplitz-matrix) |
 | [0945-snakes-and-ladders](https://github.com/rajkumar060301/leet-code/tree/master/0945-snakes-and-ladders) |
+| [1672-richest-customer-wealth](https://github.com/rajkumar060301/leet-code/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/rajkumar060301/leet-code/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rajkumar060301/leet-code/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
