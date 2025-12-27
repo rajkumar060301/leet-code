@@ -267,6 +267,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1168-duplicate-zeros](https://github.com/rajkumar060301/leet-code/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/rajkumar060301/leet-code/tree/master/1217-relative-sort-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/rajkumar060301/leet-code/tree/master/1241-decompress-run-length-encoded-list) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rajkumar060301/leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1308-smallest-string-with-swaps](https://github.com/rajkumar060301/leet-code/tree/master/1308-smallest-string-with-swaps) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rajkumar060301/leet-code/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rajkumar060301/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
@@ -494,6 +495,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1260-day-of-the-year](https://github.com/rajkumar060301/leet-code/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/rajkumar060301/leet-code/tree/master/1274-number-of-days-between-two-dates) |
 | [1289-day-of-the-week](https://github.com/rajkumar060301/leet-code/tree/master/1289-day-of-the-week) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rajkumar060301/leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajkumar060301/leet-code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1761-count-sorted-vowel-strings](https://github.com/rajkumar060301/leet-code/tree/master/1761-count-sorted-vowel-strings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/1925-count-nice-pairs-in-an-array) |
