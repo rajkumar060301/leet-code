@@ -105,6 +105,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1666-make-the-string-great](https://github.com/rajkumar060301/leet-code/tree/master/1666-make-the-string-great) |
 | [1751-slowest-key](https://github.com/rajkumar060301/leet-code/tree/master/1751-slowest-key) |
 | [1764-maximum-repeating-substring](https://github.com/rajkumar060301/leet-code/tree/master/1764-maximum-repeating-substring) |
+| [1773-count-items-matching-a-rule](https://github.com/rajkumar060301/leet-code/tree/master/1773-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/rajkumar060301/leet-code/tree/master/1944-truncate-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/rajkumar060301/leet-code/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rajkumar060301/leet-code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -281,6 +282,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1677-matrix-diagonal-sum](https://github.com/rajkumar060301/leet-code/tree/master/1677-matrix-diagonal-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rajkumar060301/leet-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1751-slowest-key](https://github.com/rajkumar060301/leet-code/tree/master/1751-slowest-key) |
+| [1773-count-items-matching-a-rule](https://github.com/rajkumar060301/leet-code/tree/master/1773-count-items-matching-a-rule) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1944-truncate-sentence](https://github.com/rajkumar060301/leet-code/tree/master/1944-truncate-sentence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rajkumar060301/leet-code/tree/master/1951-find-the-winner-of-the-circular-game) |
