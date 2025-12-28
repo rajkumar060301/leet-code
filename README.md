@@ -237,6 +237,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0697-degree-of-an-array) |
+| [0704-binary-search](https://github.com/rajkumar060301/leet-code/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/rajkumar060301/leet-code/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/rajkumar060301/leet-code/tree/master/0740-delete-and-earn) |
@@ -671,6 +672,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0441-arranging-coins](https://github.com/rajkumar060301/leet-code/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/rajkumar060301/leet-code/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/rajkumar060301/leet-code/tree/master/0792-binary-search) |
 | [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rajkumar060301/leet-code/tree/master/0882-peak-index-in-a-mountain-array) |
