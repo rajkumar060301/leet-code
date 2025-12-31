@@ -231,6 +231,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0525-contiguous-array](https://github.com/rajkumar060301/leet-code/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/rajkumar060301/leet-code/tree/master/0553-optimal-division) |
+| [0560-subarray-sum-equals-k](https://github.com/rajkumar060301/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/rajkumar060301/leet-code/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rajkumar060301/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/rajkumar060301/leet-code/tree/master/0605-can-place-flowers) |
@@ -347,6 +348,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0500-keyboard-row](https://github.com/rajkumar060301/leet-code/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/rajkumar060301/leet-code/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0525-contiguous-array](https://github.com/rajkumar060301/leet-code/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/rajkumar060301/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rajkumar060301/leet-code/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rajkumar060301/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/rajkumar060301/leet-code/tree/master/0645-set-mismatch) |
@@ -755,6 +757,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0209-minimum-size-subarray-sum](https://github.com/rajkumar060301/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rajkumar060301/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/rajkumar060301/leet-code/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/rajkumar060301/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [0878-shifting-letters](https://github.com/rajkumar060301/leet-code/tree/master/0878-shifting-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rajkumar060301/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/rajkumar060301/leet-code/tree/master/1603-running-sum-of-1d-array) |
