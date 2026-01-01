@@ -7,7 +7,7 @@ class Solution {
         Arrays.sort(charArr1);
         Arrays.sort(charArr2);
 
-        if(charArr1.length == charArr2.length &&  Arrays.equals(charArr1, charArr2)){
+        if(s.length() == t.length() &&  Arrays.equals(charArr1, charArr2)){
             return true;
         }
         return false;
