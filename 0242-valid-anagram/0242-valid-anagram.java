@@ -1,18 +1,31 @@
 class Solution {
-public boolean isAnagram(String s, String t) {
-        if (s.length() != t.length()) {
-            return false;
-        }
-        int[] counter = new int[26];
-        for (int i = 0; i < s.length(); i++) {
-            counter[s.charAt(i) - 'a']++;
-            counter[t.charAt(i) - 'a']--;
-        }
-        for (int count : counter) {
-            if (count != 0) {
-                return false;
-            }
-        }
+    public boolean isAnagram(String str1, String str2) {
+    str1 = str1.toLowerCase();
+    str2 = str2.toLowerCase();
+
+    // check if length is same
+    if(str1.length() == str2.length()) {
+
+      // convert strings to char array
+      char[] charArray1 = str1.toCharArray();
+      char[] charArray2 = str2.toCharArray();
+
+      // sort the char array
+      Arrays.sort(charArray1);
+      Arrays.sort(charArray2);
+
+      // if sorted char arrays are same
+      // then the string is anagram
+      boolean result = Arrays.equals(charArray1, charArray2);
+
+      if(result) {
         return true;
+      }
+
+    }
+
+      return false;
+
+        
     }
 }
