@@ -1,50 +1,69 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
-
     public ListNode sortList(ListNode head) {
-        if (head == null || head.next == null) return head;
+    final int length = getLength(head);
+    ListNode dummy = new ListNode(0, head);
 
-        // Step 1: Split list into two halves
-        ListNode mid = getMid(head);
-        ListNode right = mid.next;
-        mid.next = null;
-
-        // Step 2: Sort both halves recursively
-        ListNode leftSorted = sortList(head);
-        ListNode rightSorted = sortList(right);
-
-        // Step 3: Merge both sorted halves
-        return merge(leftSorted, rightSorted);
+    for (int k = 1; k < length; k *= 2) {
+      ListNode curr = dummy.next;
+      ListNode tail = dummy;
+      while (curr != null) {
+        ListNode l = curr;
+        ListNode r = split(l, k);
+        curr = split(r, k);
+        ListNode[] merged = merge(l, r);
+        tail.next = merged[0];
+        tail = merged[1];
+      }
     }
 
-    // Helper to find the middle of the list
-    private ListNode getMid(ListNode head) {
-        ListNode slow = head, fast = head.next; // Use fast.next to split evenly
-        while (fast != null && fast.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
-        }
-        return slow;
+    return dummy.next;
+  }
+
+  private int getLength(ListNode head) {
+    int length = 0;
+    for (ListNode curr = head; curr != null; curr = curr.next)
+      ++length;
+    return length;
+  }
+
+  private ListNode split(ListNode head, int k) {
+    while (--k > 0 && head != null)
+      head = head.next;
+    ListNode rest = head == null ? null : head.next;
+    if (head != null)
+      head.next = null;
+    return rest;
+  }
+
+  private ListNode[] merge(ListNode l1, ListNode l2) {
+    ListNode dummy = new ListNode(0);
+    ListNode tail = dummy;
+
+    while (l1 != null && l2 != null) {
+      if (l1.val > l2.val) {
+        ListNode temp = l1;
+        l1 = l2;
+        l2 = temp;
+      }
+      tail.next = l1;
+      l1 = l1.next;
+      tail = tail.next;
     }
+    tail.next = l1 == null ? l2 : l1;
+    while (tail.next != null)
+      tail = tail.next;
 
-    // Merge two sorted linked lists
-    private ListNode merge(ListNode l1, ListNode l2) {
-        ListNode dummy = new ListNode(0);
-        ListNode current = dummy;
-
-        while (l1 != null && l2 != null) {
-            if (l1.val <= l2.val) {
-                current.next = l1;
-                l1 = l1.next;
-            } else {
-                current.next = l2;
-                l2 = l2.next;
-            }
-            current = current.next;
-        }
-
-        // Attach remaining nodes
-        current.next = (l1 != null) ? l1 : l2;
-
-        return dummy.next;
-    }
+    return new ListNode[] {dummy.next, tail};
+  }
+    
 }
