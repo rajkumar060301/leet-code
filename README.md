@@ -40,6 +40,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0044-wildcard-matching](https://github.com/rajkumar060301/leet-code/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/rajkumar060301/leet-code/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/rajkumar060301/leet-code/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/rajkumar060301/leet-code/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/rajkumar060301/leet-code/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/rajkumar060301/leet-code/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/rajkumar060301/leet-code/tree/master/0097-interleaving-string) |
@@ -459,6 +460,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0012-integer-to-roman](https://github.com/rajkumar060301/leet-code/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/rajkumar060301/leet-code/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/rajkumar060301/leet-code/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/rajkumar060301/leet-code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rajkumar060301/leet-code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rajkumar060301/leet-code/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/rajkumar060301/leet-code/tree/master/0168-excel-sheet-column-title) |
@@ -608,6 +610,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rajkumar060301/leet-code/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/rajkumar060301/leet-code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rajkumar060301/leet-code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/rajkumar060301/leet-code/tree/master/0136-single-number) |
@@ -742,6 +745,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/rajkumar060301/leet-code/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/rajkumar060301/leet-code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rajkumar060301/leet-code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rajkumar060301/leet-code/tree/master/0415-add-strings) |
