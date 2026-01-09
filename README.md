@@ -255,6 +255,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0830-largest-triangle-area](https://github.com/rajkumar060301/leet-code/tree/master/0830-largest-triangle-area) |
 | [0835-linked-list-components](https://github.com/rajkumar060301/leet-code/tree/master/0835-linked-list-components) |
 | [0837-most-common-word](https://github.com/rajkumar060301/leet-code/tree/master/0837-most-common-word) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rajkumar060301/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-design-circular-queue](https://github.com/rajkumar060301/leet-code/tree/master/0860-design-circular-queue) |
 | [0878-shifting-letters](https://github.com/rajkumar060301/leet-code/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rajkumar060301/leet-code/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -692,6 +693,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0704-binary-search](https://github.com/rajkumar060301/leet-code/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/rajkumar060301/leet-code/tree/master/0792-binary-search) |
 | [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rajkumar060301/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rajkumar060301/leet-code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/rajkumar060301/leet-code/tree/master/0907-koko-eating-bananas) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajkumar060301/leet-code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
