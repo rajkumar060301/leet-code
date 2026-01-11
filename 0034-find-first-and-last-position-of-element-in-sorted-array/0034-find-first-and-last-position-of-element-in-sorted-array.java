@@ -1,39 +1,48 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-           if (nums == null || nums.length == 0) {
-            return new int[] { -1, -1 };
+        int first = findFirst( nums, target);
+        int last = findLast(nums,target);
+        int[] arr = {first, last};
+        return arr;
+    }
+
+    private int findFirst(int[] nums, int target){
+        int start = 0;
+        int end = nums.length-1;
+        int ans = -1;
+        while(start<=end){
+            int mid = start + (end - start)/2;
+            if(nums[mid] == target){
+                ans = mid;
+                end = mid -1;
+            }else if (nums[mid] < target){
+                start = mid +1;
+            }
+            else{
+                end = mid-1;
+            }
+            
         }
 
-        int left = 0;
-        int right = nums.length - 1;
-        int[] result = new int[] { -1, -1 };
-        // Find the leftmost occurrence of the target
-        while (left < right) {
-            int mid = left + (right - left) / 2;
-            if (nums[mid] < target) {
-                left = mid + 1;
+        return ans;
+
+    }
+    private int findLast(int[] nums, int target){
+        int start = 0;
+        int end = nums.length-1;
+        int ans = -1;
+        while(start<=end){
+            int mid = start + (end -start)/2;
+            if(nums[mid] == target){
+                ans = mid;
+                start = mid + 1;
+            }else if (nums[mid] < target) {
+                start = mid + 1;
             } else {
-                right = mid;
+                end = mid - 1; 
             }
         }
-        if (nums[left] != target) {
-            return result;
-        }
-        result[0] = left;
 
-        // Reset right index and find the rightmost occurrence of the target
-        right = nums.length - 1;
-        while (left < right) {
-            int mid = left + (right - left + 1) / 2;
-            if (nums[mid] > target) {
-                right = mid - 1;
-            } else {
-                left = mid;
-            }
-        }
-        result[1] = right;
-
-        return result;
-
+        return ans;
     }
 }
