@@ -1,16 +1,24 @@
 class Solution {
-
     public int reverse(int x) {
-    long reversed = 0;
-    while (x != 0) {
-      reversed = reversed * 10 + x % 10;
-      x /= 10;
-    }
-    if (reversed > Integer.MAX_VALUE || reversed < Integer.MIN_VALUE) {
-      return 0;
+        int max = Integer.MAX_VALUE;
+        int min = Integer.MIN_VALUE;
+        long sum =0;
+        while(x != 0){
+            long remain = x%10;
+            sum = (sum * 10) + remain;
+            x = x/10;
+        }
+        if(sum>max || sum < min) return 0;
+        return (int) sum;
 
-    }
-    return (int) reversed;
- 
+        // String str = String.valueOf(x);
+        // StringBuilder sb = new StringBuilder(str);
+        // String revString = sb.reverse().toString();
+        // int value = Integer.parseInt(revString);
+
+
+
+
+        
     }
 }
