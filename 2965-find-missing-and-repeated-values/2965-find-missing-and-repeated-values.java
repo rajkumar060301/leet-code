@@ -30,9 +30,10 @@ class Solution {
             set.add(num);
         }
 
-        int sum1 = set.stream()
-                .mapToInt(Integer::intValue)
-                .sum();
+        int sum1 = 0;
+        for (int value : set) {
+            sum1 += value;
+        }
         return new int[] {repeatedNumber, sum-sum1 };
 
     }
