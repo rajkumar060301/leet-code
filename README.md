@@ -307,6 +307,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2215-finding-3-digit-even-numbers](https://github.com/rajkumar060301/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/rajkumar060301/leet-code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajkumar060301/leet-code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2965-find-missing-and-repeated-values](https://github.com/rajkumar060301/leet-code/tree/master/2965-find-missing-and-repeated-values) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/rajkumar060301/leet-code/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/rajkumar060301/leet-code/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rajkumar060301/leet-code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -390,6 +391,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2190-count-common-words-with-one-occurrence](https://github.com/rajkumar060301/leet-code/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajkumar060301/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajkumar060301/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/rajkumar060301/leet-code/tree/master/2965-find-missing-and-repeated-values) |
 | [3412-permutation-difference-between-two-strings](https://github.com/rajkumar060301/leet-code/tree/master/3412-permutation-difference-between-two-strings) |
 ## Sorting
 |  |
@@ -524,6 +526,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rajkumar060301/leet-code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2288-count-operations-to-obtain-zero](https://github.com/rajkumar060301/leet-code/tree/master/2288-count-operations-to-obtain-zero) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/rajkumar060301/leet-code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2965-find-missing-and-repeated-values](https://github.com/rajkumar060301/leet-code/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
@@ -538,6 +541,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1672-richest-customer-wealth](https://github.com/rajkumar060301/leet-code/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/rajkumar060301/leet-code/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rajkumar060301/leet-code/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/rajkumar060301/leet-code/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
