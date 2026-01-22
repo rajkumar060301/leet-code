@@ -469,6 +469,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0009-palindrome-number](https://github.com/rajkumar060301/leet-code/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/rajkumar060301/leet-code/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/rajkumar060301/leet-code/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/rajkumar060301/leet-code/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/rajkumar060301/leet-code/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/rajkumar060301/leet-code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rajkumar060301/leet-code/tree/master/0069-sqrtx) |
@@ -596,6 +597,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0002-add-two-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rajkumar060301/leet-code/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/rajkumar060301/leet-code/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/rajkumar060301/leet-code/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/rajkumar060301/leet-code/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/rajkumar060301/leet-code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0206-reverse-linked-list) |
