@@ -194,6 +194,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0118-pascals-triangle](https://github.com/rajkumar060301/leet-code/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/rajkumar060301/leet-code/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajkumar060301/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/rajkumar060301/leet-code/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/rajkumar060301/leet-code/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/rajkumar060301/leet-code/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/rajkumar060301/leet-code/tree/master/0136-single-number) |
@@ -330,6 +331,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0012-integer-to-roman](https://github.com/rajkumar060301/leet-code/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/rajkumar060301/leet-code/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/rajkumar060301/leet-code/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/rajkumar060301/leet-code/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/rajkumar060301/leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajkumar060301/leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rajkumar060301/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
@@ -936,4 +938,8 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/rajkumar060301/leet-code/tree/master/0909-stone-game) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rajkumar060301/leet-code/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
