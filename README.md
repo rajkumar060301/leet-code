@@ -84,6 +84,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0647-palindromic-substrings](https://github.com/rajkumar060301/leet-code/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/rajkumar060301/leet-code/tree/master/0648-replace-words) |
 | [0680-valid-palindrome-ii](https://github.com/rajkumar060301/leet-code/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/rajkumar060301/leet-code/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
 | [0742-to-lower-case](https://github.com/rajkumar060301/leet-code/tree/master/0742-to-lower-case) |
@@ -734,6 +735,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | ------- |
 | [0214-shortest-palindrome](https://github.com/rajkumar060301/leet-code/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/rajkumar060301/leet-code/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/rajkumar060301/leet-code/tree/master/0812-rotate-string) |
 | [1080-camelcase-matching](https://github.com/rajkumar060301/leet-code/tree/master/1080-camelcase-matching) |
 | [1764-maximum-repeating-substring](https://github.com/rajkumar060301/leet-code/tree/master/1764-maximum-repeating-substring) |
