@@ -40,6 +40,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0013-roman-to-integer](https://github.com/rajkumar060301/leet-code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rajkumar060301/leet-code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rajkumar060301/leet-code/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajkumar060301/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/rajkumar060301/leet-code/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/rajkumar060301/leet-code/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/rajkumar060301/leet-code/tree/master/0065-valid-number) |
@@ -660,6 +661,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rajkumar060301/leet-code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajkumar060301/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rajkumar060301/leet-code/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajkumar060301/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/rajkumar060301/leet-code/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rajkumar060301/leet-code/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rajkumar060301/leet-code/tree/master/0075-sort-colors) |
@@ -733,6 +735,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajkumar060301/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/rajkumar060301/leet-code/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/rajkumar060301/leet-code/tree/master/0686-repeated-string-match) |
