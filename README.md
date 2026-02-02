@@ -41,6 +41,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0014-longest-common-prefix](https://github.com/rajkumar060301/leet-code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rajkumar060301/leet-code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajkumar060301/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/rajkumar060301/leet-code/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/rajkumar060301/leet-code/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/rajkumar060301/leet-code/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/rajkumar060301/leet-code/tree/master/0065-valid-number) |
