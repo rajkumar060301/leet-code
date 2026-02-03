@@ -1,18 +1,19 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        for (int num : nums){
-            map.put(num , map.getOrDefault(num, 0) + 1);
-        }
-        for(int number : nums){
-            if(map.get(number)==1){
-                return number;
+        int low = 0;
+        int high = nums.length - 1;
+        while(low < high){
+            int mid = low + (high - low) / 2;
+            if(mid % 2 == 1){
+                mid--;
+            }
+            if(nums[mid] == nums[mid+1]){
+                low = mid+2;
+            }
+            else{
+                high = mid;
             }
         }
-
-        System.out.println(map);
-
-
-        return 0;
+        return nums[low];
     }
 }
