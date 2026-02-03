@@ -241,6 +241,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0500-keyboard-row](https://github.com/rajkumar060301/leet-code/tree/master/0500-keyboard-row) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/rajkumar060301/leet-code/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0525-contiguous-array](https://github.com/rajkumar060301/leet-code/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rajkumar060301/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/rajkumar060301/leet-code/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/rajkumar060301/leet-code/tree/master/0560-subarray-sum-equals-k) |
@@ -719,6 +720,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0400-nth-digit](https://github.com/rajkumar060301/leet-code/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/rajkumar060301/leet-code/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0456-132-pattern) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rajkumar060301/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/rajkumar060301/leet-code/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rajkumar060301/leet-code/tree/master/0744-find-smallest-letter-greater-than-target) |
