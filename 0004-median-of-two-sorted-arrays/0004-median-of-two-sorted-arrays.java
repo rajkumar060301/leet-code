@@ -1,28 +1,25 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        // 1. Merge the two arrays into a single new array.
-        int m = nums1.length;
-        int n = nums2.length;
-        int[] merged = new int[m + n];
-
-        System.arraycopy(nums1, 0, merged, 0, m);
-        System.arraycopy(nums2, 0, merged, m, n);
+        List<Integer> merged = new ArrayList<>();
+        int i = 0, j = 0;
         
-        // 2. Sort the merged array.
-        Arrays.sort(merged);
-        
-        int totalLength = merged.length;
-        
-        // 3. Find the median based on whether the total length is even or odd.
-        if (totalLength % 2 == 1) {
-            // If the length is odd, the median is the middle element.
-            return (double) merged[totalLength / 2];
-        } else {
-            // If the length is even, the median is the average of the two middle elements.
-            int mid1 = merged[totalLength / 2 - 1];
-            int mid2 = merged[totalLength / 2];
-            return ((double) mid1 + (double) mid2) / 2.0;
+        while (i < nums1.length && j < nums2.length) {
+            if (nums1[i] < nums2[j]) {
+                merged.add(nums1[i++]);
+            } else {
+                merged.add(nums2[j++]);
+            }
         }
+        
+        while (i < nums1.length) merged.add(nums1[i++]);
+        while (j < nums2.length) merged.add(nums2[j++]);
+        
+        int mid = merged.size() / 2;
+        if (merged.size() % 2 == 0) {
+            return (merged.get(mid-1) + merged.get(mid)) / 2.0;
+        } else {
+            return merged.get(mid);
+        }
+        
     }
-    
 }
