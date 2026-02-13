@@ -869,6 +869,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0203-remove-linked-list-elements](https://github.com/rajkumar060301/leet-code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0328-odd-even-linked-list) |
 | [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/rajkumar060301/leet-code/tree/master/0835-linked-list-components) |
