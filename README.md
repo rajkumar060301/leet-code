@@ -131,6 +131,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0042-trapping-rain-water](https://github.com/rajkumar060301/leet-code/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/rajkumar060301/leet-code/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/rajkumar060301/leet-code/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/rajkumar060301/leet-code/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/rajkumar060301/leet-code/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/rajkumar060301/leet-code/tree/master/0394-decode-string) |
@@ -453,6 +454,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/rajkumar060301/leet-code/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajkumar060301/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/rajkumar060301/leet-code/tree/master/0860-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rajkumar060301/leet-code/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -890,6 +892,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rajkumar060301/leet-code/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/rajkumar060301/leet-code/tree/master/0225-implement-stack-using-queues) |
 | [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/rajkumar060301/leet-code/tree/master/0860-design-circular-queue) |
