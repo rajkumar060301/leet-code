@@ -1,13 +1,44 @@
 class MinStack {
-    Stack<Integer> s = new Stack<>(), st = new Stack<>();
+    Stack<Integer> st;
+    Stack<Integer> minSt;
+    public MinStack() {
+        st = new Stack<>();
+        minSt = new Stack<>();    }
+    
     public void push(int val) {
-        s.push(val);
-        if (st.isEmpty() || val <= st.peek()) st.push(val);
+        st.push(val);
+
+        // Push into min stack if empty or smaller
+        if (minSt.isEmpty() || val <= minSt.peek()) {
+            minSt.push(val);
+        }
     }
+    
     public void pop() {
-        if (s.peek().equals(st.peek())) st.pop();
-        s.pop();
+        if (st.isEmpty()) return;
+
+        int removed = st.pop();
+
+        // Remove from min stack also
+        if (removed == minSt.peek()) {
+            minSt.pop();
+        }
     }
-    public int top() { return s.isEmpty() ? -1 : s.peek(); }
-    public int getMin() { return st.isEmpty() ? -1 : st.peek(); }
+    
+    public int top() {
+        return st.peek();
+    }
+    
+    public int getMin() {
+        return minSt.peek();
+    }
 }
+
+/**
+ * Your MinStack object will be instantiated and called as such:
+ * MinStack obj = new MinStack();
+ * obj.push(val);
+ * obj.pop();
+ * int param_3 = obj.top();
+ * int param_4 = obj.getMin();
+ */
