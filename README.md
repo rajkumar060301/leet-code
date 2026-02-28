@@ -428,6 +428,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0229-majority-element-ii](https://github.com/rajkumar060301/leet-code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rajkumar060301/leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajkumar060301/leet-code/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/rajkumar060301/leet-code/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/rajkumar060301/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajkumar060301/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/rajkumar060301/leet-code/tree/master/0389-find-the-difference) |
@@ -694,6 +695,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0234-palindrome-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/rajkumar060301/leet-code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rajkumar060301/leet-code/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/rajkumar060301/leet-code/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/rajkumar060301/leet-code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rajkumar060301/leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rajkumar060301/leet-code/tree/master/0349-intersection-of-two-arrays) |
@@ -764,6 +766,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0023-merge-k-sorted-lists](https://github.com/rajkumar060301/leet-code/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/rajkumar060301/leet-code/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/rajkumar060301/leet-code/tree/master/0295-find-median-from-data-stream) |
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0948-sort-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajkumar060301/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -904,6 +907,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0155-min-stack](https://github.com/rajkumar060301/leet-code/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/rajkumar060301/leet-code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rajkumar060301/leet-code/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/rajkumar060301/leet-code/tree/master/0295-find-median-from-data-stream) |
 | [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/rajkumar060301/leet-code/tree/master/0860-design-circular-queue) |
@@ -978,4 +982,8 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rajkumar060301/leet-code/tree/master/0128-longest-consecutive-sequence) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/rajkumar060301/leet-code/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
