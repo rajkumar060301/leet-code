@@ -252,6 +252,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0553-optimal-division](https://github.com/rajkumar060301/leet-code/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/rajkumar060301/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/rajkumar060301/leet-code/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/rajkumar060301/leet-code/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rajkumar060301/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/rajkumar060301/leet-code/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -378,6 +379,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0525-contiguous-array](https://github.com/rajkumar060301/leet-code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rajkumar060301/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rajkumar060301/leet-code/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/rajkumar060301/leet-code/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rajkumar060301/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/rajkumar060301/leet-code/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/rajkumar060301/leet-code/tree/master/0648-replace-words) |
