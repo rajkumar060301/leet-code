@@ -253,6 +253,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0560-subarray-sum-equals-k](https://github.com/rajkumar060301/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/rajkumar060301/leet-code/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/rajkumar060301/leet-code/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rajkumar060301/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/rajkumar060301/leet-code/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -380,6 +381,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0560-subarray-sum-equals-k](https://github.com/rajkumar060301/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rajkumar060301/leet-code/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/rajkumar060301/leet-code/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rajkumar060301/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/rajkumar060301/leet-code/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/rajkumar060301/leet-code/tree/master/0648-replace-words) |
@@ -441,6 +443,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0455-assign-cookies](https://github.com/rajkumar060301/leet-code/tree/master/0455-assign-cookies) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/rajkumar060301/leet-code/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0561-array-partition](https://github.com/rajkumar060301/leet-code/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/rajkumar060301/leet-code/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
@@ -475,6 +478,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0229-majority-element-ii](https://github.com/rajkumar060301/leet-code/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/rajkumar060301/leet-code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajkumar060301/leet-code/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/rajkumar060301/leet-code/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rajkumar060301/leet-code/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -837,6 +841,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0424-longest-repeating-character-replacement](https://github.com/rajkumar060301/leet-code/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajkumar060301/leet-code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rajkumar060301/leet-code/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/rajkumar060301/leet-code/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Number Theory
 |  |
