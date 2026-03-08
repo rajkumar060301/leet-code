@@ -91,6 +91,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
 | [0742-to-lower-case](https://github.com/rajkumar060301/leet-code/tree/master/0742-to-lower-case) |
+| [0804-unique-morse-code-words](https://github.com/rajkumar060301/leet-code/tree/master/0804-unique-morse-code-words) |
 | [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 | [0812-rotate-string](https://github.com/rajkumar060301/leet-code/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/rajkumar060301/leet-code/tree/master/0837-most-common-word) |
@@ -271,6 +272,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0747-min-cost-climbing-stairs](https://github.com/rajkumar060301/leet-code/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/rajkumar060301/leet-code/tree/master/0792-binary-search) |
+| [0804-unique-morse-code-words](https://github.com/rajkumar060301/leet-code/tree/master/0804-unique-morse-code-words) |
 | [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/rajkumar060301/leet-code/tree/master/0830-largest-triangle-area) |
@@ -391,6 +393,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0697-degree-of-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0697-degree-of-an-array) |
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/rajkumar060301/leet-code/tree/master/0740-delete-and-earn) |
+| [0804-unique-morse-code-words](https://github.com/rajkumar060301/leet-code/tree/master/0804-unique-morse-code-words) |
 | [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 | [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/rajkumar060301/leet-code/tree/master/0835-linked-list-components) |
