@@ -103,6 +103,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0920-uncommon-words-from-two-sentences](https://github.com/rajkumar060301/leet-code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0926-find-and-replace-pattern) |
 | [0935-orderly-queue](https://github.com/rajkumar060301/leet-code/tree/master/0935-orderly-queue) |
+| [0953-verifying-an-alien-dictionary](https://github.com/rajkumar060301/leet-code/tree/master/0953-verifying-an-alien-dictionary) |
 | [1006-vowel-spellchecker](https://github.com/rajkumar060301/leet-code/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/rajkumar060301/leet-code/tree/master/1044-find-common-characters) |
 | [1080-camelcase-matching](https://github.com/rajkumar060301/leet-code/tree/master/1080-camelcase-matching) |
@@ -295,6 +296,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0944-smallest-range-i](https://github.com/rajkumar060301/leet-code/tree/master/0944-smallest-range-i) |
 | [0945-snakes-and-ladders](https://github.com/rajkumar060301/leet-code/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0948-sort-an-array) |
+| [0953-verifying-an-alien-dictionary](https://github.com/rajkumar060301/leet-code/tree/master/0953-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/rajkumar060301/leet-code/tree/master/0994-rotting-oranges) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/rajkumar060301/leet-code/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/rajkumar060301/leet-code/tree/master/1006-vowel-spellchecker) |
@@ -412,6 +414,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0837-most-common-word](https://github.com/rajkumar060301/leet-code/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rajkumar060301/leet-code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0926-find-and-replace-pattern) |
+| [0953-verifying-an-alien-dictionary](https://github.com/rajkumar060301/leet-code/tree/master/0953-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/rajkumar060301/leet-code/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/rajkumar060301/leet-code/tree/master/1006-vowel-spellchecker) |
 | [1010-powerful-integers](https://github.com/rajkumar060301/leet-code/tree/master/1010-powerful-integers) |
