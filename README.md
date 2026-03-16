@@ -314,6 +314,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1308-smallest-string-with-swaps](https://github.com/rajkumar060301/leet-code/tree/master/1308-smallest-string-with-swaps) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rajkumar060301/leet-code/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1338-reduce-array-size-to-the-half](https://github.com/rajkumar060301/leet-code/tree/master/1338-reduce-array-size-to-the-half) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rajkumar060301/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rajkumar060301/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rajkumar060301/leet-code/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajkumar060301/leet-code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -425,6 +426,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1308-smallest-string-with-swaps](https://github.com/rajkumar060301/leet-code/tree/master/1308-smallest-string-with-swaps) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rajkumar060301/leet-code/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1338-reduce-array-size-to-the-half](https://github.com/rajkumar060301/leet-code/tree/master/1338-reduce-array-size-to-the-half) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rajkumar060301/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajkumar060301/leet-code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajkumar060301/leet-code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rajkumar060301/leet-code/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -479,6 +481,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1217-relative-sort-array](https://github.com/rajkumar060301/leet-code/tree/master/1217-relative-sort-array) |
 | [1308-smallest-string-with-swaps](https://github.com/rajkumar060301/leet-code/tree/master/1308-smallest-string-with-swaps) |
 | [1338-reduce-array-size-to-the-half](https://github.com/rajkumar060301/leet-code/tree/master/1338-reduce-array-size-to-the-half) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rajkumar060301/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rajkumar060301/leet-code/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajkumar060301/leet-code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajkumar060301/leet-code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -754,6 +757,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0908-middle-of-the-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0908-middle-of-the-linked-list) |
 | [1080-camelcase-matching](https://github.com/rajkumar060301/leet-code/tree/master/1080-camelcase-matching) |
 | [1168-duplicate-zeros](https://github.com/rajkumar060301/leet-code/tree/master/1168-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rajkumar060301/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/rajkumar060301/leet-code/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajkumar060301/leet-code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -786,6 +790,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajkumar060301/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rajkumar060301/leet-code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/rajkumar060301/leet-code/tree/master/0907-koko-eating-bananas) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rajkumar060301/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajkumar060301/leet-code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Ordered Set
 |  |
