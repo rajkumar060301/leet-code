@@ -574,6 +574,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0633-sum-of-square-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/rajkumar060301/leet-code/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/rajkumar060301/leet-code/tree/master/0670-maximum-swap) |
+| [0788-rotated-digits](https://github.com/rajkumar060301/leet-code/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/rajkumar060301/leet-code/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/rajkumar060301/leet-code/tree/master/0909-stone-game) |
 | [0935-orderly-queue](https://github.com/rajkumar060301/leet-code/tree/master/0935-orderly-queue) |
@@ -653,6 +654,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/rajkumar060301/leet-code/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/rajkumar060301/leet-code/tree/master/0747-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/rajkumar060301/leet-code/tree/master/0788-rotated-digits) |
 | [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 | [0909-stone-game](https://github.com/rajkumar060301/leet-code/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1013-fibonacci-number) |
