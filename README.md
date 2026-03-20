@@ -274,6 +274,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/rajkumar060301/leet-code/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/rajkumar060301/leet-code/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/rajkumar060301/leet-code/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/rajkumar060301/leet-code/tree/master/0740-delete-and-earn) |
@@ -409,6 +410,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0648-replace-words](https://github.com/rajkumar060301/leet-code/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/rajkumar060301/leet-code/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/rajkumar060301/leet-code/tree/master/0740-delete-and-earn) |
 | [0804-unique-morse-code-words](https://github.com/rajkumar060301/leet-code/tree/master/0804-unique-morse-code-words) |
@@ -948,6 +950,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0234-palindrome-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0328-odd-even-linked-list) |
+| [0705-design-hashset](https://github.com/rajkumar060301/leet-code/tree/master/0705-design-hashset) |
 | [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/rajkumar060301/leet-code/tree/master/0835-linked-list-components) |
 | [0838-design-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0838-design-linked-list) |
@@ -970,6 +973,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0225-implement-stack-using-queues](https://github.com/rajkumar060301/leet-code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rajkumar060301/leet-code/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/rajkumar060301/leet-code/tree/master/0295-find-median-from-data-stream) |
+| [0705-design-hashset](https://github.com/rajkumar060301/leet-code/tree/master/0705-design-hashset) |
 | [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/rajkumar060301/leet-code/tree/master/0860-design-circular-queue) |
@@ -978,6 +982,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/rajkumar060301/leet-code/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/rajkumar060301/leet-code/tree/master/0214-shortest-palindrome) |
+| [0705-design-hashset](https://github.com/rajkumar060301/leet-code/tree/master/0705-design-hashset) |
 | [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
 ## Binary Indexed Tree
 |  |
