@@ -305,6 +305,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1006-vowel-spellchecker](https://github.com/rajkumar060301/leet-code/tree/master/1006-vowel-spellchecker) |
 | [1031-add-to-array-form-of-integer](https://github.com/rajkumar060301/leet-code/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/rajkumar060301/leet-code/tree/master/1044-find-common-characters) |
+| [1073-adding-two-negabinary-numbers](https://github.com/rajkumar060301/leet-code/tree/master/1073-adding-two-negabinary-numbers) |
 | [1080-camelcase-matching](https://github.com/rajkumar060301/leet-code/tree/master/1080-camelcase-matching) |
 | [1090-largest-values-from-labels](https://github.com/rajkumar060301/leet-code/tree/master/1090-largest-values-from-labels) |
 | [1105-uncrossed-lines](https://github.com/rajkumar060301/leet-code/tree/master/1105-uncrossed-lines) |
@@ -587,6 +588,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1010-powerful-integers](https://github.com/rajkumar060301/leet-code/tree/master/1010-powerful-integers) |
 | [1013-fibonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/rajkumar060301/leet-code/tree/master/1031-add-to-array-form-of-integer) |
+| [1073-adding-two-negabinary-numbers](https://github.com/rajkumar060301/leet-code/tree/master/1073-adding-two-negabinary-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rajkumar060301/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1195-distribute-candies-to-people](https://github.com/rajkumar060301/leet-code/tree/master/1195-distribute-candies-to-people) |
 | [1236-n-th-tribonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1236-n-th-tribonacci-number) |
