@@ -330,6 +330,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1741-sort-array-by-increasing-frequency](https://github.com/rajkumar060301/leet-code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1751-slowest-key](https://github.com/rajkumar060301/leet-code/tree/master/1751-slowest-key) |
 | [1773-count-items-matching-a-rule](https://github.com/rajkumar060301/leet-code/tree/master/1773-count-items-matching-a-rule) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/rajkumar060301/leet-code/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1944-truncate-sentence](https://github.com/rajkumar060301/leet-code/tree/master/1944-truncate-sentence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rajkumar060301/leet-code/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -599,6 +600,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rajkumar060301/leet-code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajkumar060301/leet-code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1761-count-sorted-vowel-strings](https://github.com/rajkumar060301/leet-code/tree/master/1761-count-sorted-vowel-strings) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/rajkumar060301/leet-code/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/rajkumar060301/leet-code/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rajkumar060301/leet-code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2288-count-operations-to-obtain-zero](https://github.com/rajkumar060301/leet-code/tree/master/2288-count-operations-to-obtain-zero) |
