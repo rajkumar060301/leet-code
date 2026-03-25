@@ -240,6 +240,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0349-intersection-of-two-arrays](https://github.com/rajkumar060301/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajkumar060301/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/rajkumar060301/leet-code/tree/master/0377-combination-sum-iv) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rajkumar060301/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/rajkumar060301/leet-code/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/rajkumar060301/leet-code/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/rajkumar060301/leet-code/tree/master/0416-partition-equal-subset-sum) |
@@ -389,6 +390,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0290-word-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/rajkumar060301/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajkumar060301/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rajkumar060301/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/rajkumar060301/leet-code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajkumar060301/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rajkumar060301/leet-code/tree/master/0389-find-the-difference) |
@@ -566,6 +568,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0343-integer-break](https://github.com/rajkumar060301/leet-code/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/rajkumar060301/leet-code/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/rajkumar060301/leet-code/tree/master/0372-super-pow) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rajkumar060301/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/rajkumar060301/leet-code/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/rajkumar060301/leet-code/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rajkumar060301/leet-code/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -982,6 +985,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0225-implement-stack-using-queues](https://github.com/rajkumar060301/leet-code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rajkumar060301/leet-code/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/rajkumar060301/leet-code/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rajkumar060301/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/rajkumar060301/leet-code/tree/master/0705-design-hashset) |
 | [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0838-design-linked-list) |
@@ -1064,4 +1068,8 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/rajkumar060301/leet-code/tree/master/0295-find-median-from-data-stream) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/rajkumar060301/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
