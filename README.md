@@ -266,6 +266,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0561-array-partition](https://github.com/rajkumar060301/leet-code/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/rajkumar060301/leet-code/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/rajkumar060301/leet-code/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rajkumar060301/leet-code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/rajkumar060301/leet-code/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -582,6 +583,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0523-continuous-subarray-sum](https://github.com/rajkumar060301/leet-code/tree/master/0523-continuous-subarray-sum) |
 | [0553-optimal-division](https://github.com/rajkumar060301/leet-code/tree/master/0553-optimal-division) |
 | [0593-valid-square](https://github.com/rajkumar060301/leet-code/tree/master/0593-valid-square) |
+| [0598-range-addition-ii](https://github.com/rajkumar060301/leet-code/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/rajkumar060301/leet-code/tree/master/0650-2-keys-keyboard) |
