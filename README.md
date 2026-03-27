@@ -78,6 +78,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0415-add-strings](https://github.com/rajkumar060301/leet-code/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajkumar060301/leet-code/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rajkumar060301/leet-code/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/rajkumar060301/leet-code/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/rajkumar060301/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/rajkumar060301/leet-code/tree/master/0482-license-key-formatting) |
@@ -771,6 +772,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0349-intersection-of-two-arrays](https://github.com/rajkumar060301/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajkumar060301/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/rajkumar060301/leet-code/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/rajkumar060301/leet-code/tree/master/0455-assign-cookies) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/rajkumar060301/leet-code/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0541-reverse-string-ii](https://github.com/rajkumar060301/leet-code/tree/master/0541-reverse-string-ii) |
