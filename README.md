@@ -602,6 +602,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1031-add-to-array-form-of-integer](https://github.com/rajkumar060301/leet-code/tree/master/1031-add-to-array-form-of-integer) |
 | [1073-adding-two-negabinary-numbers](https://github.com/rajkumar060301/leet-code/tree/master/1073-adding-two-negabinary-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rajkumar060301/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1175-prime-arrangements](https://github.com/rajkumar060301/leet-code/tree/master/1175-prime-arrangements) |
 | [1195-distribute-candies-to-people](https://github.com/rajkumar060301/leet-code/tree/master/1195-distribute-candies-to-people) |
 | [1236-n-th-tribonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/rajkumar060301/leet-code/tree/master/1260-day-of-the-year) |
