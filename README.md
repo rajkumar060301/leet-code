@@ -596,6 +596,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0633-sum-of-square-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/rajkumar060301/leet-code/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/rajkumar060301/leet-code/tree/master/0670-maximum-swap) |
+| [0672-bulb-switcher-ii](https://github.com/rajkumar060301/leet-code/tree/master/0672-bulb-switcher-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rajkumar060301/leet-code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/rajkumar060301/leet-code/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/rajkumar060301/leet-code/tree/master/0830-largest-triangle-area) |
@@ -742,6 +743,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0389-find-the-difference](https://github.com/rajkumar060301/leet-code/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rajkumar060301/leet-code/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/rajkumar060301/leet-code/tree/master/0645-set-mismatch) |
+| [0672-bulb-switcher-ii](https://github.com/rajkumar060301/leet-code/tree/master/0672-bulb-switcher-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rajkumar060301/leet-code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rajkumar060301/leet-code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rajkumar060301/leet-code/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -1027,6 +1029,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0104-maximum-depth-of-binary-tree](https://github.com/rajkumar060301/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rajkumar060301/leet-code/tree/master/0112-path-sum) |
 | [0337-house-robber-iii](https://github.com/rajkumar060301/leet-code/tree/master/0337-house-robber-iii) |
+| [0672-bulb-switcher-ii](https://github.com/rajkumar060301/leet-code/tree/master/0672-bulb-switcher-ii) |
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
 | [1308-smallest-string-with-swaps](https://github.com/rajkumar060301/leet-code/tree/master/1308-smallest-string-with-swaps) |
 ## Breadth-First Search
@@ -1037,6 +1040,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0279-perfect-squares](https://github.com/rajkumar060301/leet-code/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/rajkumar060301/leet-code/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0542-01-matrix) |
+| [0672-bulb-switcher-ii](https://github.com/rajkumar060301/leet-code/tree/master/0672-bulb-switcher-ii) |
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
 | [0945-snakes-and-ladders](https://github.com/rajkumar060301/leet-code/tree/master/0945-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/rajkumar060301/leet-code/tree/master/0994-rotting-oranges) |
