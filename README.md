@@ -287,6 +287,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0740-delete-and-earn](https://github.com/rajkumar060301/leet-code/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rajkumar060301/leet-code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/rajkumar060301/leet-code/tree/master/0747-min-cost-climbing-stairs) |
+| [0775-global-and-local-inversions](https://github.com/rajkumar060301/leet-code/tree/master/0775-global-and-local-inversions) |
 | [0777-toeplitz-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/rajkumar060301/leet-code/tree/master/0792-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/rajkumar060301/leet-code/tree/master/0804-unique-morse-code-words) |
@@ -601,6 +602,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0670-maximum-swap](https://github.com/rajkumar060301/leet-code/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/rajkumar060301/leet-code/tree/master/0672-bulb-switcher-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rajkumar060301/leet-code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0775-global-and-local-inversions](https://github.com/rajkumar060301/leet-code/tree/master/0775-global-and-local-inversions) |
 | [0788-rotated-digits](https://github.com/rajkumar060301/leet-code/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/rajkumar060301/leet-code/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/rajkumar060301/leet-code/tree/master/0909-stone-game) |
