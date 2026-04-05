@@ -56,6 +56,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0139-word-break](https://github.com/rajkumar060301/leet-code/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/rajkumar060301/leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/rajkumar060301/leet-code/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/rajkumar060301/leet-code/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/rajkumar060301/leet-code/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/rajkumar060301/leet-code/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/rajkumar060301/leet-code/tree/master/0205-isomorphic-strings) |
@@ -388,6 +389,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0141-linked-list-cycle](https://github.com/rajkumar060301/leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajkumar060301/leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rajkumar060301/leet-code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/rajkumar060301/leet-code/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/rajkumar060301/leet-code/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/rajkumar060301/leet-code/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/rajkumar060301/leet-code/tree/master/0202-happy-number) |
@@ -564,6 +566,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0069-sqrtx](https://github.com/rajkumar060301/leet-code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rajkumar060301/leet-code/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/rajkumar060301/leet-code/tree/master/0089-gray-code) |
+| [0166-fraction-to-recurring-decimal](https://github.com/rajkumar060301/leet-code/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/rajkumar060301/leet-code/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/rajkumar060301/leet-code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rajkumar060301/leet-code/tree/master/0202-happy-number) |
