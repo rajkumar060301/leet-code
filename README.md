@@ -97,6 +97,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
 | [0742-to-lower-case](https://github.com/rajkumar060301/leet-code/tree/master/0742-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/rajkumar060301/leet-code/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/rajkumar060301/leet-code/tree/master/0804-unique-morse-code-words) |
 | [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 | [0811-subdomain-visit-count](https://github.com/rajkumar060301/leet-code/tree/master/0811-subdomain-visit-count) |
@@ -290,6 +291,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0740-delete-and-earn](https://github.com/rajkumar060301/leet-code/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rajkumar060301/leet-code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/rajkumar060301/leet-code/tree/master/0747-min-cost-climbing-stairs) |
+| [0748-shortest-completing-word](https://github.com/rajkumar060301/leet-code/tree/master/0748-shortest-completing-word) |
 | [0775-global-and-local-inversions](https://github.com/rajkumar060301/leet-code/tree/master/0775-global-and-local-inversions) |
 | [0777-toeplitz-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/rajkumar060301/leet-code/tree/master/0792-binary-search) |
@@ -432,6 +434,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0705-design-hashset](https://github.com/rajkumar060301/leet-code/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/rajkumar060301/leet-code/tree/master/0740-delete-and-earn) |
+| [0748-shortest-completing-word](https://github.com/rajkumar060301/leet-code/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/rajkumar060301/leet-code/tree/master/0804-unique-morse-code-words) |
 | [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 | [0811-subdomain-visit-count](https://github.com/rajkumar060301/leet-code/tree/master/0811-subdomain-visit-count) |
