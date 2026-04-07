@@ -302,6 +302,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0830-largest-triangle-area](https://github.com/rajkumar060301/leet-code/tree/master/0830-largest-triangle-area) |
 | [0835-linked-list-components](https://github.com/rajkumar060301/leet-code/tree/master/0835-linked-list-components) |
 | [0837-most-common-word](https://github.com/rajkumar060301/leet-code/tree/master/0837-most-common-word) |
+| [0851-loud-and-rich](https://github.com/rajkumar060301/leet-code/tree/master/0851-loud-and-rich) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajkumar060301/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-design-circular-queue](https://github.com/rajkumar060301/leet-code/tree/master/0860-design-circular-queue) |
 | [0878-shifting-letters](https://github.com/rajkumar060301/leet-code/tree/master/0878-shifting-letters) |
@@ -1049,6 +1050,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0337-house-robber-iii](https://github.com/rajkumar060301/leet-code/tree/master/0337-house-robber-iii) |
 | [0672-bulb-switcher-ii](https://github.com/rajkumar060301/leet-code/tree/master/0672-bulb-switcher-ii) |
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
+| [0851-loud-and-rich](https://github.com/rajkumar060301/leet-code/tree/master/0851-loud-and-rich) |
 | [1308-smallest-string-with-swaps](https://github.com/rajkumar060301/leet-code/tree/master/1308-smallest-string-with-swaps) |
 ## Breadth-First Search
 |  |
@@ -1109,4 +1111,12 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajkumar060301/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
+## Graph Theory
+|  |
+| ------- |
+| [0851-loud-and-rich](https://github.com/rajkumar060301/leet-code/tree/master/0851-loud-and-rich) |
+## Topological Sort
+|  |
+| ------- |
+| [0851-loud-and-rich](https://github.com/rajkumar060301/leet-code/tree/master/0851-loud-and-rich) |
 <!---LeetCode Topics End-->
