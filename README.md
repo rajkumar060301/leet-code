@@ -121,6 +121,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1274-number-of-days-between-two-dates](https://github.com/rajkumar060301/leet-code/tree/master/1274-number-of-days-between-two-dates) |
 | [1297-maximum-number-of-balloons](https://github.com/rajkumar060301/leet-code/tree/master/1297-maximum-number-of-balloons) |
 | [1308-smallest-string-with-swaps](https://github.com/rajkumar060301/leet-code/tree/master/1308-smallest-string-with-swaps) |
+| [1396-design-underground-system](https://github.com/rajkumar060301/leet-code/tree/master/1396-design-underground-system) |
 | [1532-reformat-the-string](https://github.com/rajkumar060301/leet-code/tree/master/1532-reformat-the-string) |
 | [1666-make-the-string-great](https://github.com/rajkumar060301/leet-code/tree/master/1666-make-the-string-great) |
 | [1751-slowest-key](https://github.com/rajkumar060301/leet-code/tree/master/1751-slowest-key) |
@@ -461,6 +462,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/rajkumar060301/leet-code/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1338-reduce-array-size-to-the-half](https://github.com/rajkumar060301/leet-code/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajkumar060301/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1396-design-underground-system](https://github.com/rajkumar060301/leet-code/tree/master/1396-design-underground-system) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajkumar060301/leet-code/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajkumar060301/leet-code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rajkumar060301/leet-code/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -1035,6 +1037,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0838-design-linked-list](https://github.com/rajkumar060301/leet-code/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/rajkumar060301/leet-code/tree/master/0860-design-circular-queue) |
 | [0981-time-based-key-value-store](https://github.com/rajkumar060301/leet-code/tree/master/0981-time-based-key-value-store) |
+| [1396-design-underground-system](https://github.com/rajkumar060301/leet-code/tree/master/1396-design-underground-system) |
 ## Hash Function
 |  |
 | ------- |
