@@ -323,6 +323,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0994-rotting-oranges](https://github.com/rajkumar060301/leet-code/tree/master/0994-rotting-oranges) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/rajkumar060301/leet-code/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/rajkumar060301/leet-code/tree/master/1006-vowel-spellchecker) |
+| [1030-matrix-cells-in-distance-order](https://github.com/rajkumar060301/leet-code/tree/master/1030-matrix-cells-in-distance-order) |
 | [1031-add-to-array-form-of-integer](https://github.com/rajkumar060301/leet-code/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/rajkumar060301/leet-code/tree/master/1044-find-common-characters) |
 | [1073-adding-two-negabinary-numbers](https://github.com/rajkumar060301/leet-code/tree/master/1073-adding-two-negabinary-numbers) |
@@ -519,6 +520,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 | [0935-orderly-queue](https://github.com/rajkumar060301/leet-code/tree/master/0935-orderly-queue) |
 | [0948-sort-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0948-sort-an-array) |
+| [1030-matrix-cells-in-distance-order](https://github.com/rajkumar060301/leet-code/tree/master/1030-matrix-cells-in-distance-order) |
 | [1090-largest-values-from-labels](https://github.com/rajkumar060301/leet-code/tree/master/1090-largest-values-from-labels) |
 | [1137-height-checker](https://github.com/rajkumar060301/leet-code/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/rajkumar060301/leet-code/tree/master/1217-relative-sort-array) |
@@ -632,6 +634,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0944-smallest-range-i](https://github.com/rajkumar060301/leet-code/tree/master/0944-smallest-range-i) |
 | [1010-powerful-integers](https://github.com/rajkumar060301/leet-code/tree/master/1010-powerful-integers) |
 | [1013-fibonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1013-fibonacci-number) |
+| [1030-matrix-cells-in-distance-order](https://github.com/rajkumar060301/leet-code/tree/master/1030-matrix-cells-in-distance-order) |
 | [1031-add-to-array-form-of-integer](https://github.com/rajkumar060301/leet-code/tree/master/1031-add-to-array-form-of-integer) |
 | [1073-adding-two-negabinary-numbers](https://github.com/rajkumar060301/leet-code/tree/master/1073-adding-two-negabinary-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rajkumar060301/leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -663,6 +666,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0777-toeplitz-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0777-toeplitz-matrix) |
 | [0945-snakes-and-ladders](https://github.com/rajkumar060301/leet-code/tree/master/0945-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/rajkumar060301/leet-code/tree/master/0994-rotting-oranges) |
+| [1030-matrix-cells-in-distance-order](https://github.com/rajkumar060301/leet-code/tree/master/1030-matrix-cells-in-distance-order) |
 | [1672-richest-customer-wealth](https://github.com/rajkumar060301/leet-code/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/rajkumar060301/leet-code/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/rajkumar060301/leet-code/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -986,6 +990,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0223-rectangle-area](https://github.com/rajkumar060301/leet-code/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/rajkumar060301/leet-code/tree/master/0593-valid-square) |
 | [0830-largest-triangle-area](https://github.com/rajkumar060301/leet-code/tree/master/0830-largest-triangle-area) |
+| [1030-matrix-cells-in-distance-order](https://github.com/rajkumar060301/leet-code/tree/master/1030-matrix-cells-in-distance-order) |
 ## Memoization
 |  |
 | ------- |
