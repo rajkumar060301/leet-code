@@ -99,6 +99,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
 | [0742-to-lower-case](https://github.com/rajkumar060301/leet-code/tree/master/0742-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/rajkumar060301/leet-code/tree/master/0748-shortest-completing-word) |
+| [0752-open-the-lock](https://github.com/rajkumar060301/leet-code/tree/master/0752-open-the-lock) |
 | [0804-unique-morse-code-words](https://github.com/rajkumar060301/leet-code/tree/master/0804-unique-morse-code-words) |
 | [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 | [0811-subdomain-visit-count](https://github.com/rajkumar060301/leet-code/tree/master/0811-subdomain-visit-count) |
@@ -299,6 +300,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rajkumar060301/leet-code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/rajkumar060301/leet-code/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/rajkumar060301/leet-code/tree/master/0748-shortest-completing-word) |
+| [0752-open-the-lock](https://github.com/rajkumar060301/leet-code/tree/master/0752-open-the-lock) |
 | [0775-global-and-local-inversions](https://github.com/rajkumar060301/leet-code/tree/master/0775-global-and-local-inversions) |
 | [0777-toeplitz-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/rajkumar060301/leet-code/tree/master/0792-binary-search) |
@@ -446,6 +448,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/rajkumar060301/leet-code/tree/master/0740-delete-and-earn) |
 | [0748-shortest-completing-word](https://github.com/rajkumar060301/leet-code/tree/master/0748-shortest-completing-word) |
+| [0752-open-the-lock](https://github.com/rajkumar060301/leet-code/tree/master/0752-open-the-lock) |
 | [0804-unique-morse-code-words](https://github.com/rajkumar060301/leet-code/tree/master/0804-unique-morse-code-words) |
 | [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 | [0811-subdomain-visit-count](https://github.com/rajkumar060301/leet-code/tree/master/0811-subdomain-visit-count) |
@@ -1091,6 +1094,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0542-01-matrix](https://github.com/rajkumar060301/leet-code/tree/master/0542-01-matrix) |
 | [0672-bulb-switcher-ii](https://github.com/rajkumar060301/leet-code/tree/master/0672-bulb-switcher-ii) |
 | [0721-accounts-merge](https://github.com/rajkumar060301/leet-code/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/rajkumar060301/leet-code/tree/master/0752-open-the-lock) |
 | [0945-snakes-and-ladders](https://github.com/rajkumar060301/leet-code/tree/master/0945-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/rajkumar060301/leet-code/tree/master/0994-rotting-oranges) |
 | [1308-smallest-string-with-swaps](https://github.com/rajkumar060301/leet-code/tree/master/1308-smallest-string-with-swaps) |
