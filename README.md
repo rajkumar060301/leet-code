@@ -375,6 +375,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/rajkumar060301/leet-code/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/rajkumar060301/leet-code/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rajkumar060301/leet-code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rajkumar060301/leet-code/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/rajkumar060301/leet-code/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Backtracking
 |  |
@@ -485,6 +486,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajkumar060301/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajkumar060301/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/rajkumar060301/leet-code/tree/master/2965-find-missing-and-repeated-values) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rajkumar060301/leet-code/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/rajkumar060301/leet-code/tree/master/3412-permutation-difference-between-two-strings) |
 ## Sorting
 |  |
@@ -902,6 +904,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0948-sort-an-array](https://github.com/rajkumar060301/leet-code/tree/master/0948-sort-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/rajkumar060301/leet-code/tree/master/1338-reduce-array-size-to-the-half) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajkumar060301/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rajkumar060301/leet-code/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -970,6 +973,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0567-permutation-in-string](https://github.com/rajkumar060301/leet-code/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/rajkumar060301/leet-code/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rajkumar060301/leet-code/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Number Theory
 |  |
 | ------- |
