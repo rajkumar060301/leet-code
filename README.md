@@ -326,6 +326,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0994-rotting-oranges](https://github.com/rajkumar060301/leet-code/tree/master/0994-rotting-oranges) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/rajkumar060301/leet-code/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/rajkumar060301/leet-code/tree/master/1006-vowel-spellchecker) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rajkumar060301/leet-code/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1030-matrix-cells-in-distance-order](https://github.com/rajkumar060301/leet-code/tree/master/1030-matrix-cells-in-distance-order) |
 | [1031-add-to-array-form-of-integer](https://github.com/rajkumar060301/leet-code/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/rajkumar060301/leet-code/tree/master/1044-find-common-characters) |
@@ -463,6 +464,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/rajkumar060301/leet-code/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/rajkumar060301/leet-code/tree/master/1006-vowel-spellchecker) |
 | [1010-powerful-integers](https://github.com/rajkumar060301/leet-code/tree/master/1010-powerful-integers) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rajkumar060301/leet-code/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1044-find-common-characters](https://github.com/rajkumar060301/leet-code/tree/master/1044-find-common-characters) |
 | [1090-largest-values-from-labels](https://github.com/rajkumar060301/leet-code/tree/master/1090-largest-values-from-labels) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/rajkumar060301/leet-code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -564,6 +566,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0811-subdomain-visit-count](https://github.com/rajkumar060301/leet-code/tree/master/0811-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/rajkumar060301/leet-code/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rajkumar060301/leet-code/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rajkumar060301/leet-code/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1090-largest-values-from-labels](https://github.com/rajkumar060301/leet-code/tree/master/1090-largest-values-from-labels) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/rajkumar060301/leet-code/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/rajkumar060301/leet-code/tree/master/1297-maximum-number-of-balloons) |
