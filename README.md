@@ -377,6 +377,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [3220-count-tested-devices-after-test-operations](https://github.com/rajkumar060301/leet-code/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rajkumar060301/leet-code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rajkumar060301/leet-code/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/rajkumar060301/leet-code/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/rajkumar060301/leet-code/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Backtracking
 |  |
@@ -989,6 +990,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1010-powerful-integers](https://github.com/rajkumar060301/leet-code/tree/master/1010-powerful-integers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajkumar060301/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rajkumar060301/leet-code/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/rajkumar060301/leet-code/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Trie
 |  |
 | ------- |
