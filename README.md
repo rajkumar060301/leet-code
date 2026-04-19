@@ -377,6 +377,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [3220-count-tested-devices-after-test-operations](https://github.com/rajkumar060301/leet-code/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rajkumar060301/leet-code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rajkumar060301/leet-code/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3731-find-missing-elements](https://github.com/rajkumar060301/leet-code/tree/master/3731-find-missing-elements) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/rajkumar060301/leet-code/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/rajkumar060301/leet-code/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Backtracking
@@ -491,6 +492,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2965-find-missing-and-repeated-values](https://github.com/rajkumar060301/leet-code/tree/master/2965-find-missing-and-repeated-values) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rajkumar060301/leet-code/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/rajkumar060301/leet-code/tree/master/3412-permutation-difference-between-two-strings) |
+| [3731-find-missing-elements](https://github.com/rajkumar060301/leet-code/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -545,6 +547,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajkumar060301/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajkumar060301/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajkumar060301/leet-code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3731-find-missing-elements](https://github.com/rajkumar060301/leet-code/tree/master/3731-find-missing-elements) |
 ## Queue
 |  |
 | ------- |
