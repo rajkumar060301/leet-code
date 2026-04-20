@@ -378,6 +378,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rajkumar060301/leet-code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rajkumar060301/leet-code/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3731-find-missing-elements](https://github.com/rajkumar060301/leet-code/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rajkumar060301/leet-code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/rajkumar060301/leet-code/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/rajkumar060301/leet-code/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Backtracking
@@ -493,6 +494,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rajkumar060301/leet-code/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/rajkumar060301/leet-code/tree/master/3412-permutation-difference-between-two-strings) |
 | [3731-find-missing-elements](https://github.com/rajkumar060301/leet-code/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rajkumar060301/leet-code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sorting
 |  |
 | ------- |
