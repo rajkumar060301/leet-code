@@ -21,7 +21,6 @@ class Solution {
             int x = list.get(i);
             for (int j = i + 1; j < list.size(); j++) {
                 int y = list.get(j);
-
                 if (!freq.get(x).equals(freq.get(y))) {
                     return new int[]{x, y};
                 }
