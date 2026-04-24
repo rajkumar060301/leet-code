@@ -384,6 +384,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [3866-first-unique-even-element](https://github.com/rajkumar060301/leet-code/tree/master/3866-first-unique-even-element) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/rajkumar060301/leet-code/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/rajkumar060301/leet-code/tree/master/3891-minimum-increase-to-maximize-special-indices) |
+| [3903-smallest-stable-index-i](https://github.com/rajkumar060301/leet-code/tree/master/3903-smallest-stable-index-i) |
 ## Backtracking
 |  |
 | ------- |
