@@ -378,6 +378,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rajkumar060301/leet-code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rajkumar060301/leet-code/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3731-find-missing-elements](https://github.com/rajkumar060301/leet-code/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rajkumar060301/leet-code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rajkumar060301/leet-code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/rajkumar060301/leet-code/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/rajkumar060301/leet-code/tree/master/3861-minimum-capacity-box) |
@@ -676,6 +677,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2288-count-operations-to-obtain-zero](https://github.com/rajkumar060301/leet-code/tree/master/2288-count-operations-to-obtain-zero) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/rajkumar060301/leet-code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2965-find-missing-and-repeated-values](https://github.com/rajkumar060301/leet-code/tree/master/2965-find-missing-and-repeated-values) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rajkumar060301/leet-code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
 |  |
 | ------- |
