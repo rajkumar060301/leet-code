@@ -145,6 +145,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | ------- |
 | [0020-valid-parentheses](https://github.com/rajkumar060301/leet-code/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rajkumar060301/leet-code/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/rajkumar060301/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/rajkumar060301/leet-code/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/rajkumar060301/leet-code/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/rajkumar060301/leet-code/tree/master/0224-basic-calculator) |
@@ -1101,6 +1102,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rajkumar060301/leet-code/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/rajkumar060301/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rajkumar060301/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rajkumar060301/leet-code/tree/master/0112-path-sum) |
 | [0337-house-robber-iii](https://github.com/rajkumar060301/leet-code/tree/master/0337-house-robber-iii) |
@@ -1139,12 +1141,14 @@ This repository contains my solutions to various **LeetCode problems**, organize
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rajkumar060301/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rajkumar060301/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rajkumar060301/leet-code/tree/master/0112-path-sum) |
 | [0337-house-robber-iii](https://github.com/rajkumar060301/leet-code/tree/master/0337-house-robber-iii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rajkumar060301/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rajkumar060301/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rajkumar060301/leet-code/tree/master/0112-path-sum) |
 | [0337-house-robber-iii](https://github.com/rajkumar060301/leet-code/tree/master/0337-house-robber-iii) |
