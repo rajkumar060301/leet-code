@@ -140,6 +140,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rajkumar060301/leet-code/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/rajkumar060301/leet-code/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/rajkumar060301/leet-code/tree/master/3412-permutation-difference-between-two-strings) |
+| [3856-trim-trailing-vowels](https://github.com/rajkumar060301/leet-code/tree/master/3856-trim-trailing-vowels) |
 ## Stack
 |  |
 | ------- |
