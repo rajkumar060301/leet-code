@@ -141,6 +141,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/rajkumar060301/leet-code/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/rajkumar060301/leet-code/tree/master/3412-permutation-difference-between-two-strings) |
 | [3856-trim-trailing-vowels](https://github.com/rajkumar060301/leet-code/tree/master/3856-trim-trailing-vowels) |
+| [3889-mirror-frequency-distance](https://github.com/rajkumar060301/leet-code/tree/master/3889-mirror-frequency-distance) |
 ## Stack
 |  |
 | ------- |
@@ -506,6 +507,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rajkumar060301/leet-code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/rajkumar060301/leet-code/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/rajkumar060301/leet-code/tree/master/3866-first-unique-even-element) |
+| [3889-mirror-frequency-distance](https://github.com/rajkumar060301/leet-code/tree/master/3889-mirror-frequency-distance) |
 ## Sorting
 |  |
 | ------- |
@@ -597,6 +599,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rajkumar060301/leet-code/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/rajkumar060301/leet-code/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/rajkumar060301/leet-code/tree/master/3866-first-unique-even-element) |
+| [3889-mirror-frequency-distance](https://github.com/rajkumar060301/leet-code/tree/master/3889-mirror-frequency-distance) |
 ## Math
 |  |
 | ------- |
