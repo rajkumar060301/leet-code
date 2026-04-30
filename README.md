@@ -140,6 +140,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rajkumar060301/leet-code/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/rajkumar060301/leet-code/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/rajkumar060301/leet-code/tree/master/3412-permutation-difference-between-two-strings) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rajkumar060301/leet-code/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3856-trim-trailing-vowels](https://github.com/rajkumar060301/leet-code/tree/master/3856-trim-trailing-vowels) |
 | [3889-mirror-frequency-distance](https://github.com/rajkumar060301/leet-code/tree/master/3889-mirror-frequency-distance) |
 ## Stack
@@ -502,6 +503,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2965-find-missing-and-repeated-values](https://github.com/rajkumar060301/leet-code/tree/master/2965-find-missing-and-repeated-values) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rajkumar060301/leet-code/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/rajkumar060301/leet-code/tree/master/3412-permutation-difference-between-two-strings) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rajkumar060301/leet-code/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rajkumar060301/leet-code/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/rajkumar060301/leet-code/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rajkumar060301/leet-code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -596,6 +598,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/rajkumar060301/leet-code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/rajkumar060301/leet-code/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/rajkumar060301/leet-code/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rajkumar060301/leet-code/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rajkumar060301/leet-code/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/rajkumar060301/leet-code/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/rajkumar060301/leet-code/tree/master/3866-first-unique-even-element) |
