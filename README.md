@@ -385,6 +385,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [3731-find-missing-elements](https://github.com/rajkumar060301/leet-code/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rajkumar060301/leet-code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rajkumar060301/leet-code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3833-count-dominant-indices](https://github.com/rajkumar060301/leet-code/tree/master/3833-count-dominant-indices) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/rajkumar060301/leet-code/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/rajkumar060301/leet-code/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/rajkumar060301/leet-code/tree/master/3866-first-unique-even-element) |
@@ -1016,6 +1017,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1010-powerful-integers](https://github.com/rajkumar060301/leet-code/tree/master/1010-powerful-integers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajkumar060301/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rajkumar060301/leet-code/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3833-count-dominant-indices](https://github.com/rajkumar060301/leet-code/tree/master/3833-count-dominant-indices) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/rajkumar060301/leet-code/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Trie
 |  |
