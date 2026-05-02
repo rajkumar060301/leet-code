@@ -386,6 +386,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rajkumar060301/leet-code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rajkumar060301/leet-code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3833-count-dominant-indices](https://github.com/rajkumar060301/leet-code/tree/master/3833-count-dominant-indices) |
+| [3842-toggle-light-bulbs](https://github.com/rajkumar060301/leet-code/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/rajkumar060301/leet-code/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/rajkumar060301/leet-code/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/rajkumar060301/leet-code/tree/master/3866-first-unique-even-element) |
@@ -508,6 +509,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rajkumar060301/leet-code/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/rajkumar060301/leet-code/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rajkumar060301/leet-code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3842-toggle-light-bulbs](https://github.com/rajkumar060301/leet-code/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/rajkumar060301/leet-code/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/rajkumar060301/leet-code/tree/master/3866-first-unique-even-element) |
 | [3889-mirror-frequency-distance](https://github.com/rajkumar060301/leet-code/tree/master/3889-mirror-frequency-distance) |
@@ -566,6 +568,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2215-finding-3-digit-even-numbers](https://github.com/rajkumar060301/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajkumar060301/leet-code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/rajkumar060301/leet-code/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/rajkumar060301/leet-code/tree/master/3842-toggle-light-bulbs) |
 ## Queue
 |  |
 | ------- |
@@ -979,6 +982,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2195-time-needed-to-buy-tickets](https://github.com/rajkumar060301/leet-code/tree/master/2195-time-needed-to-buy-tickets) |
 | [2288-count-operations-to-obtain-zero](https://github.com/rajkumar060301/leet-code/tree/master/2288-count-operations-to-obtain-zero) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/rajkumar060301/leet-code/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3842-toggle-light-bulbs](https://github.com/rajkumar060301/leet-code/tree/master/3842-toggle-light-bulbs) |
 ## Prefix Sum
 |  |
 | ------- |
