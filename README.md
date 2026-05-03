@@ -692,6 +692,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2288-count-operations-to-obtain-zero](https://github.com/rajkumar060301/leet-code/tree/master/2288-count-operations-to-obtain-zero) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/rajkumar060301/leet-code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2965-find-missing-and-repeated-values](https://github.com/rajkumar060301/leet-code/tree/master/2965-find-missing-and-repeated-values) |
+| [3492-maximum-containers-on-a-ship](https://github.com/rajkumar060301/leet-code/tree/master/3492-maximum-containers-on-a-ship) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rajkumar060301/leet-code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
 |  |
