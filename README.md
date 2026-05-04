@@ -390,6 +390,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [3852-smallest-pair-with-different-frequencies](https://github.com/rajkumar060301/leet-code/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/rajkumar060301/leet-code/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/rajkumar060301/leet-code/tree/master/3866-first-unique-even-element) |
+| [3875-construct-uniform-parity-array-i](https://github.com/rajkumar060301/leet-code/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/rajkumar060301/leet-code/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/rajkumar060301/leet-code/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 | [3903-smallest-stable-index-i](https://github.com/rajkumar060301/leet-code/tree/master/3903-smallest-stable-index-i) |
@@ -694,6 +695,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2965-find-missing-and-repeated-values](https://github.com/rajkumar060301/leet-code/tree/master/2965-find-missing-and-repeated-values) |
 | [3492-maximum-containers-on-a-ship](https://github.com/rajkumar060301/leet-code/tree/master/3492-maximum-containers-on-a-ship) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rajkumar060301/leet-code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/rajkumar060301/leet-code/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
