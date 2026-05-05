@@ -184,6 +184,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1338-reduce-array-size-to-the-half](https://github.com/rajkumar060301/leet-code/tree/master/1338-reduce-array-size-to-the-half) |
 | [2117-find-original-array-from-doubled-array](https://github.com/rajkumar060301/leet-code/tree/master/2117-find-original-array-from-doubled-array) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rajkumar060301/leet-code/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3745-maximize-expression-of-three-elements](https://github.com/rajkumar060301/leet-code/tree/master/3745-maximize-expression-of-three-elements) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/rajkumar060301/leet-code/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Monotonic Stack
 |  |
@@ -385,6 +386,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [3731-find-missing-elements](https://github.com/rajkumar060301/leet-code/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rajkumar060301/leet-code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rajkumar060301/leet-code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/rajkumar060301/leet-code/tree/master/3745-maximize-expression-of-three-elements) |
 | [3833-count-dominant-indices](https://github.com/rajkumar060301/leet-code/tree/master/3833-count-dominant-indices) |
 | [3842-toggle-light-bulbs](https://github.com/rajkumar060301/leet-code/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/rajkumar060301/leet-code/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -569,6 +571,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2215-finding-3-digit-even-numbers](https://github.com/rajkumar060301/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajkumar060301/leet-code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/rajkumar060301/leet-code/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/rajkumar060301/leet-code/tree/master/3745-maximize-expression-of-three-elements) |
 | [3842-toggle-light-bulbs](https://github.com/rajkumar060301/leet-code/tree/master/3842-toggle-light-bulbs) |
 ## Queue
 |  |
@@ -1024,6 +1027,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1010-powerful-integers](https://github.com/rajkumar060301/leet-code/tree/master/1010-powerful-integers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajkumar060301/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rajkumar060301/leet-code/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3745-maximize-expression-of-three-elements](https://github.com/rajkumar060301/leet-code/tree/master/3745-maximize-expression-of-three-elements) |
 | [3833-count-dominant-indices](https://github.com/rajkumar060301/leet-code/tree/master/3833-count-dominant-indices) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/rajkumar060301/leet-code/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Trie
