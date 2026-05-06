@@ -141,6 +141,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/rajkumar060301/leet-code/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/rajkumar060301/leet-code/tree/master/3412-permutation-difference-between-two-strings) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rajkumar060301/leet-code/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3798-largest-even-number](https://github.com/rajkumar060301/leet-code/tree/master/3798-largest-even-number) |
 | [3856-trim-trailing-vowels](https://github.com/rajkumar060301/leet-code/tree/master/3856-trim-trailing-vowels) |
 | [3889-mirror-frequency-distance](https://github.com/rajkumar060301/leet-code/tree/master/3889-mirror-frequency-distance) |
 ## Stack
