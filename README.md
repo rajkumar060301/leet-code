@@ -699,6 +699,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2965-find-missing-and-repeated-values](https://github.com/rajkumar060301/leet-code/tree/master/2965-find-missing-and-repeated-values) |
 | [3492-maximum-containers-on-a-ship](https://github.com/rajkumar060301/leet-code/tree/master/3492-maximum-containers-on-a-ship) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rajkumar060301/leet-code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3870-count-commas-in-range](https://github.com/rajkumar060301/leet-code/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rajkumar060301/leet-code/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
