@@ -683,6 +683,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0944-smallest-range-i](https://github.com/rajkumar060301/leet-code/tree/master/0944-smallest-range-i) |
 | [1010-powerful-integers](https://github.com/rajkumar060301/leet-code/tree/master/1010-powerful-integers) |
 | [1013-fibonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/rajkumar060301/leet-code/tree/master/1025-divisor-game) |
 | [1030-matrix-cells-in-distance-order](https://github.com/rajkumar060301/leet-code/tree/master/1030-matrix-cells-in-distance-order) |
 | [1031-add-to-array-form-of-integer](https://github.com/rajkumar060301/leet-code/tree/master/1031-add-to-array-form-of-integer) |
 | [1073-adding-two-negabinary-numbers](https://github.com/rajkumar060301/leet-code/tree/master/1073-adding-two-negabinary-numbers) |
@@ -772,6 +773,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 | [0909-stone-game](https://github.com/rajkumar060301/leet-code/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/rajkumar060301/leet-code/tree/master/1025-divisor-game) |
 | [1105-uncrossed-lines](https://github.com/rajkumar060301/leet-code/tree/master/1105-uncrossed-lines) |
 | [1121-partition-array-for-maximum-sum](https://github.com/rajkumar060301/leet-code/tree/master/1121-partition-array-for-maximum-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/rajkumar060301/leet-code/tree/master/1236-n-th-tribonacci-number) |
@@ -1163,6 +1165,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/rajkumar060301/leet-code/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/rajkumar060301/leet-code/tree/master/1025-divisor-game) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1190,6 +1193,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/rajkumar060301/leet-code/tree/master/0909-stone-game) |
+| [1025-divisor-game](https://github.com/rajkumar060301/leet-code/tree/master/1025-divisor-game) |
 ## Union-Find
 |  |
 | ------- |
