@@ -142,6 +142,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [3412-permutation-difference-between-two-strings](https://github.com/rajkumar060301/leet-code/tree/master/3412-permutation-difference-between-two-strings) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rajkumar060301/leet-code/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/rajkumar060301/leet-code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rajkumar060301/leet-code/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3798-largest-even-number](https://github.com/rajkumar060301/leet-code/tree/master/3798-largest-even-number) |
 | [3856-trim-trailing-vowels](https://github.com/rajkumar060301/leet-code/tree/master/3856-trim-trailing-vowels) |
 | [3889-mirror-frequency-distance](https://github.com/rajkumar060301/leet-code/tree/master/3889-mirror-frequency-distance) |
@@ -186,6 +187,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1338-reduce-array-size-to-the-half](https://github.com/rajkumar060301/leet-code/tree/master/1338-reduce-array-size-to-the-half) |
 | [2117-find-original-array-from-doubled-array](https://github.com/rajkumar060301/leet-code/tree/master/2117-find-original-array-from-doubled-array) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rajkumar060301/leet-code/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rajkumar060301/leet-code/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rajkumar060301/leet-code/tree/master/3745-maximize-expression-of-three-elements) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/rajkumar060301/leet-code/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Monotonic Stack
@@ -513,6 +515,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [3412-permutation-difference-between-two-strings](https://github.com/rajkumar060301/leet-code/tree/master/3412-permutation-difference-between-two-strings) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rajkumar060301/leet-code/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/rajkumar060301/leet-code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rajkumar060301/leet-code/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rajkumar060301/leet-code/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rajkumar060301/leet-code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/rajkumar060301/leet-code/tree/master/3731-find-missing-elements) |
@@ -575,6 +578,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajkumar060301/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajkumar060301/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajkumar060301/leet-code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rajkumar060301/leet-code/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3731-find-missing-elements](https://github.com/rajkumar060301/leet-code/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rajkumar060301/leet-code/tree/master/3745-maximize-expression-of-three-elements) |
 | [3842-toggle-light-bulbs](https://github.com/rajkumar060301/leet-code/tree/master/3842-toggle-light-bulbs) |
@@ -613,6 +617,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [3220-count-tested-devices-after-test-operations](https://github.com/rajkumar060301/leet-code/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rajkumar060301/leet-code/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/rajkumar060301/leet-code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rajkumar060301/leet-code/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rajkumar060301/leet-code/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/rajkumar060301/leet-code/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/rajkumar060301/leet-code/tree/master/3866-first-unique-even-element) |
