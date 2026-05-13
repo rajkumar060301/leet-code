@@ -100,6 +100,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0742-to-lower-case](https://github.com/rajkumar060301/leet-code/tree/master/0742-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/rajkumar060301/leet-code/tree/master/0748-shortest-completing-word) |
 | [0752-open-the-lock](https://github.com/rajkumar060301/leet-code/tree/master/0752-open-the-lock) |
+| [0771-jewels-and-stones](https://github.com/rajkumar060301/leet-code/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/rajkumar060301/leet-code/tree/master/0804-unique-morse-code-words) |
 | [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 | [0811-subdomain-visit-count](https://github.com/rajkumar060301/leet-code/tree/master/0811-subdomain-visit-count) |
@@ -475,6 +476,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0740-delete-and-earn](https://github.com/rajkumar060301/leet-code/tree/master/0740-delete-and-earn) |
 | [0748-shortest-completing-word](https://github.com/rajkumar060301/leet-code/tree/master/0748-shortest-completing-word) |
 | [0752-open-the-lock](https://github.com/rajkumar060301/leet-code/tree/master/0752-open-the-lock) |
+| [0771-jewels-and-stones](https://github.com/rajkumar060301/leet-code/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/rajkumar060301/leet-code/tree/master/0804-unique-morse-code-words) |
 | [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
 | [0811-subdomain-visit-count](https://github.com/rajkumar060301/leet-code/tree/master/0811-subdomain-visit-count) |
