@@ -141,6 +141,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/rajkumar060301/leet-code/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/rajkumar060301/leet-code/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/rajkumar060301/leet-code/tree/master/3412-permutation-difference-between-two-strings) |
+| [3412-find-mirror-score-of-a-string](https://github.com/rajkumar060301/leet-code/tree/master/3412-find-mirror-score-of-a-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rajkumar060301/leet-code/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/rajkumar060301/leet-code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rajkumar060301/leet-code/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -167,6 +168,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0739-daily-temperatures](https://github.com/rajkumar060301/leet-code/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rajkumar060301/leet-code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/rajkumar060301/leet-code/tree/master/1666-make-the-string-great) |
+| [3412-find-mirror-score-of-a-string](https://github.com/rajkumar060301/leet-code/tree/master/3412-find-mirror-score-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -516,6 +518,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2965-find-missing-and-repeated-values](https://github.com/rajkumar060301/leet-code/tree/master/2965-find-missing-and-repeated-values) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rajkumar060301/leet-code/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/rajkumar060301/leet-code/tree/master/3412-permutation-difference-between-two-strings) |
+| [3412-find-mirror-score-of-a-string](https://github.com/rajkumar060301/leet-code/tree/master/3412-find-mirror-score-of-a-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/rajkumar060301/leet-code/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/rajkumar060301/leet-code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rajkumar060301/leet-code/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -1005,6 +1008,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2195-time-needed-to-buy-tickets](https://github.com/rajkumar060301/leet-code/tree/master/2195-time-needed-to-buy-tickets) |
 | [2288-count-operations-to-obtain-zero](https://github.com/rajkumar060301/leet-code/tree/master/2288-count-operations-to-obtain-zero) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/rajkumar060301/leet-code/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3412-find-mirror-score-of-a-string](https://github.com/rajkumar060301/leet-code/tree/master/3412-find-mirror-score-of-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/rajkumar060301/leet-code/tree/master/3842-toggle-light-bulbs) |
 ## Prefix Sum
 |  |
