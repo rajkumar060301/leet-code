@@ -384,6 +384,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajkumar060301/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajkumar060301/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/rajkumar060301/leet-code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2784-check-if-array-is-good](https://github.com/rajkumar060301/leet-code/tree/master/2784-check-if-array-is-good) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajkumar060301/leet-code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/rajkumar060301/leet-code/tree/master/2965-find-missing-and-repeated-values) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/rajkumar060301/leet-code/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
@@ -515,6 +516,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2190-count-common-words-with-one-occurrence](https://github.com/rajkumar060301/leet-code/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajkumar060301/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajkumar060301/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
+| [2784-check-if-array-is-good](https://github.com/rajkumar060301/leet-code/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/rajkumar060301/leet-code/tree/master/2965-find-missing-and-repeated-values) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/rajkumar060301/leet-code/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/rajkumar060301/leet-code/tree/master/3412-permutation-difference-between-two-strings) |
@@ -583,6 +585,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [2117-find-original-array-from-doubled-array](https://github.com/rajkumar060301/leet-code/tree/master/2117-find-original-array-from-doubled-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajkumar060301/leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajkumar060301/leet-code/tree/master/2215-finding-3-digit-even-numbers) |
+| [2784-check-if-array-is-good](https://github.com/rajkumar060301/leet-code/tree/master/2784-check-if-array-is-good) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajkumar060301/leet-code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rajkumar060301/leet-code/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3731-find-missing-elements](https://github.com/rajkumar060301/leet-code/tree/master/3731-find-missing-elements) |
