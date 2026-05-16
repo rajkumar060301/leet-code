@@ -67,6 +67,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0273-integer-to-english-words](https://github.com/rajkumar060301/leet-code/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0290-word-pattern) |
 | [0306-additive-number](https://github.com/rajkumar060301/leet-code/tree/master/0306-additive-number) |
+| [0336-palindrome-pairs](https://github.com/rajkumar060301/leet-code/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/rajkumar060301/leet-code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rajkumar060301/leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/rajkumar060301/leet-code/tree/master/0383-ransom-note) |
@@ -263,6 +264,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0287-find-the-duplicate-number](https://github.com/rajkumar060301/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/rajkumar060301/leet-code/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rajkumar060301/leet-code/tree/master/0322-coin-change) |
+| [0336-palindrome-pairs](https://github.com/rajkumar060301/leet-code/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/rajkumar060301/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajkumar060301/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/rajkumar060301/leet-code/tree/master/0368-largest-divisible-subset) |
@@ -445,6 +447,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [0264-ugly-number-ii](https://github.com/rajkumar060301/leet-code/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/rajkumar060301/leet-code/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/rajkumar060301/leet-code/tree/master/0290-word-pattern) |
+| [0336-palindrome-pairs](https://github.com/rajkumar060301/leet-code/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/rajkumar060301/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajkumar060301/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajkumar060301/leet-code/tree/master/0380-insert-delete-getrandom-o1) |
@@ -1059,6 +1062,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rajkumar060301/leet-code/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/rajkumar060301/leet-code/tree/master/0139-word-break) |
+| [0336-palindrome-pairs](https://github.com/rajkumar060301/leet-code/tree/master/0336-palindrome-pairs) |
 | [0648-replace-words](https://github.com/rajkumar060301/leet-code/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/rajkumar060301/leet-code/tree/master/0692-top-k-frequent-words) |
 | [0808-number-of-matching-subsequences](https://github.com/rajkumar060301/leet-code/tree/master/0808-number-of-matching-subsequences) |
@@ -1135,6 +1139,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/rajkumar060301/leet-code/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/rajkumar060301/leet-code/tree/master/0214-shortest-palindrome) |
+| [0336-palindrome-pairs](https://github.com/rajkumar060301/leet-code/tree/master/0336-palindrome-pairs) |
 | [0705-design-hashset](https://github.com/rajkumar060301/leet-code/tree/master/0705-design-hashset) |
 | [0817-design-hashmap](https://github.com/rajkumar060301/leet-code/tree/master/0817-design-hashmap) |
 ## Binary Indexed Tree
