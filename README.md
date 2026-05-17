@@ -148,6 +148,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/rajkumar060301/leet-code/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3798-largest-even-number](https://github.com/rajkumar060301/leet-code/tree/master/3798-largest-even-number) |
 | [3856-trim-trailing-vowels](https://github.com/rajkumar060301/leet-code/tree/master/3856-trim-trailing-vowels) |
+| [3884-first-matching-character-from-both-ends](https://github.com/rajkumar060301/leet-code/tree/master/3884-first-matching-character-from-both-ends) |
 | [3889-mirror-frequency-distance](https://github.com/rajkumar060301/leet-code/tree/master/3889-mirror-frequency-distance) |
 ## Stack
 |  |
@@ -907,6 +908,7 @@ This repository contains my solutions to various **LeetCode problems**, organize
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajkumar060301/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/rajkumar060301/leet-code/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajkumar060301/leet-code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3884-first-matching-character-from-both-ends](https://github.com/rajkumar060301/leet-code/tree/master/3884-first-matching-character-from-both-ends) |
 ## Binary Search
 |  |
 | ------- |
